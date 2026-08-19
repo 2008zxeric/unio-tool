@@ -1,0 +1,100 @@
+OIL101	卡奴卡	Kanuka	Kunzea ericoides	Herbaceous	清透药草	叶/枝	蒸汽蒸馏	清透、洁净、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL102	柠檬尤加利	Lemon Eucalyptus	Eucalyptus citriodora	Herbaceous	柠檬药草	叶	蒸汽蒸馏	柠檬、清凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL103	史密斯尤加利	Eucalyptus Smithii	Eucalyptus smithii	Herbaceous	温和尤加利	叶	蒸汽蒸馏	温和、通透、安心	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL104	多苞尤加利	Eucalyptus Polybractea	Eucalyptus polybractea	Herbaceous	强劲尤加利	叶	蒸汽蒸馏	强劲、清凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL105	多枝尤加利	Eucalyptus Viminalis	Eucalyptus viminalis	Herbaceous	清透尤加利	叶	蒸汽蒸馏	清透、凉爽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL106	薄荷尤加利	Peppermint Eucalyptus	Eucalyptus dives	Herbaceous	薄荷尤加利	叶	蒸汽蒸馏	薄荷、清凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL107	小叶尤加利	Eucalyptus Parvifolia	Eucalyptus parvifolia	Herbaceous	柔和尤加利	叶	蒸汽蒸馏	柔和、清新、安定	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL108	苹果薄荷	Apple Mint	Mentha suaveolens	Herbaceous	苹果薄荷	叶	蒸汽蒸馏	苹果、清甜、薄荷	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL109	圆叶薄荷	Round-leaf Mint	Mentha rotundifolia	Herbaceous	土感薄荷	叶	蒸汽蒸馏	土感、清凉、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL110	水薄荷	Water Mint	Mentha aquatica	Herbaceous	清冽薄荷	叶	蒸汽蒸馏	清冽、清凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL111	香蜂草	Lemon Balm	Melissa officinalis	Herbaceous	柠檬草本	叶/花	蒸汽蒸馏	柠檬、柔和、安抚、元系列	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-039｜¥788/5ml｜产地法国｜元系列SKU Y-M-051｜¥1258/5ml｜产地法国
+OIL112	香茅	Lemongrass	Cymbopogon flexuosus	Herbaceous	柠檬草木	全草	蒸汽蒸馏	柠檬、锐利、通透、元系列	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-062｜¥118/5ml｜产地尼泊尔
+OIL113	玫瑰草	Palmarosa	Cymbopogon martinii	Herbaceous	玫瑰草木	全草	蒸汽蒸馏	玫瑰、柔和、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL114	墨西哥牛至	Mexican Oregano	Lippia graveolens	Herbaceous	辛香草本	叶	蒸汽蒸馏	辛香、强烈、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL115	牛膝草	Hyssop	Hyssopus officinalis	Herbaceous	清苦药草	花/叶	蒸汽蒸馏	清苦、樟脑、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL116	柠檬马鞭草	Lemon Verbena	Aloysia citrodora	Herbaceous	柠檬草木	叶	蒸汽蒸馏	柠檬、清亮、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL117	龙蒿	Tarragon	Artemisia dracunculus	Herbaceous	茴香草本	叶	蒸汽蒸馏	茴香、清冽、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL118	苦艾	Wormwood	Artemisia absinthium	Herbaceous	苦凉药草	花/叶	蒸汽蒸馏	苦凉、樟脑、强烈	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL119	艾	Mugwort	Artemisia argyi	Herbaceous	苦温药草	叶	蒸汽蒸馏	苦温、草本、厚重	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；癫痫/婴幼儿慎用；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL120	圣罗勒	Holy Basil	Ocimum sanctum	Herbaceous	神圣草本	叶/花	蒸汽蒸馏	神圣、草本、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL121	热带罗勒	Tropical Basil	Ocimum basilicum ct. estragole	Herbaceous	茴香草本	叶	蒸汽蒸馏	茴香、清甜、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL122	丁香罗勒	Clove Basil	Ocimum gratissimum	Herbaceous	辛香草本	叶	蒸汽蒸馏	辛香、丁香、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL123	柠檬罗勒	Lemon Basil	Ocimum × citriodorum	Herbaceous	柠檬草本	叶	蒸汽蒸馏	柠檬、清甜、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL124	西洋蓍草	Yarrow	Achillea millefolium	Herbaceous	清苦草木	花/叶	蒸汽蒸馏	清苦、草本、通透、元系列	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-052｜¥288/5ml｜产地保加利亚
+OIL125	万寿菊	Tagetes	Tagetes minuta	Herbaceous	青苦草木	花/叶	蒸汽蒸馏	青苦、果香、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；光毒性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL126	缬草	Valerian	Valeriana officinalis	Herbaceous	厚重根草	根	蒸汽蒸馏	厚重、土腥、安神	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL127	猫薄荷	Catnip	Nepeta cataria	Herbaceous	清凉草本	叶/花	蒸汽蒸馏	清凉、草本、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL128	岩蔷薇	Labdanum	Cistus ladanifer	Herbaceous	树脂草木	枝叶	溶剂/CO2	树脂、烟感、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL129	土木香	Elecampane	Inula helenium	Herbaceous	厚重根草	根	蒸汽蒸馏	厚重、土感、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL130	紫苏	Perilla	Perilla frutescens	Herbaceous	辛香草本	叶	蒸汽蒸馏	辛香、草本、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL131	冬季香薄荷	Winter Savory	Satureja montana	Herbaceous	辛香草本	叶/花	蒸汽蒸馏	辛香、强烈、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL132	夏季香薄荷	Summer Savory	Satureja hortensis	Herbaceous	清亮草本	叶/花	蒸汽蒸馏	清亮、草本、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL133	艾纳香	Blumea	Blumea balsamifera	Herbaceous	樟脑草本	叶	蒸汽蒸馏	樟脑、清凉、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL134	法国薰衣草	French Lavender	Lavandula stoechas	Herbaceous	清亮花香	花穗	蒸汽蒸馏	清亮、草本、花香	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL135	棉薰衣草	Woolly Lavender	Lavandula lanata	Herbaceous	柔和花香	花穗	蒸汽蒸馏	柔和、粉感、花香	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL136	沉香醇百里香	Thyme ct. Linalool	Thymus vulgaris ct. linalool	Herbaceous	柔和草本	叶/花	蒸汽蒸馏	柔和、清新、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL137	侧柏醇百里香	Thyme ct. Thujanol	Thymus vulgaris ct. thujanol	Herbaceous	温润草本	叶/花	蒸汽蒸馏	温润、草本、安抚	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL138	龙脑百里香	Thyme ct. Borneol	Thymus vulgaris ct. borneol	Herbaceous	清凉草本	叶/花	蒸汽蒸馏	清凉、草本、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL139	喜马拉雅雪松	Himalayan Cedarwood	Cedrus deodara	Woody	柔软木质	木材	蒸汽蒸馏	柔软、沉稳、安定、元系列	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-026｜¥138/10ml｜产地尼泊尔
+OIL140	澳大利亚檀香	Australian Sandalwood	Santalum spicatum	Woody	奶油木香	木材	蒸汽蒸馏	奶油、圆润、安静	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL141	阿米香树	Amyris	Amyris balsamifera	Woody	温润木质	木材	蒸汽蒸馏	温润、安定、低调	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL142	愈创木	Guaiacwood	Guaiacum officinale	Woody	烟感木质	木材	蒸汽蒸馏	烟感、厚重、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL143	花梨木	Rosewood	Aniba rosaeodora	Woody	柔润木香	木材	蒸汽蒸馏	柔润、花香、圆润、元系列	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-028｜¥188/100ml｜产地巴西
+OIL144	芳樟	Ho Wood	Cinnamomum camphora ct. linalool	Woody	清润木香	木材/叶	蒸汽蒸馏	清润、花香、柔和	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL145	香樟	Camphor	Cinnamomum camphora	Woody	樟脑木香	木材/叶	蒸汽蒸馏	樟脑、清凉、穿透	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL146	沉香	Agarwood	Aquilaria crassna	Woody	深暗树脂木	木材/树脂	蒸汽蒸馏	深暗、树脂、高级	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL147	紫檀	Red Sandalwood	Pterocarpus santalinus	Woody	温润木香	木材	蒸汽蒸馏	温润、粉感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL148	桦木	Birch	Betula lenta	Woody	清冽木香	皮/枝	蒸汽蒸馏	清冽、水杨、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL149	冬青	Wintergreen	Gaultheria procumbens	Woody	凉感木香	叶	蒸汽蒸馏	凉感、水杨、通透	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL150	黎巴嫩雪松	Cedar of Lebanon	Cedrus libani	Woody	庄严木质	木材	蒸汽蒸馏	庄严、沉稳、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL151	桧木	Hinoki Cypress	Chamaecyparis obtusa	Woody	清润木香	木材	蒸汽蒸馏	清润、洁净、安定	真正薰衣草、檀香、雪松、茶树、尤加利	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL152	崖柏	Arborvitae	Thuja occidentalis	Woody	清苦木香	叶/枝	蒸汽蒸馏	清苦、清凉、穿透	甜橙、乳香、佛手柑、天竺葵、薄荷	木质类通常安全感更强，但依然要按具体品种和剂量来判断。；癫痫/婴幼儿慎用；孕妇慎用	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL153	索马里乳香	Somali Frankincense	Boswellia sacra	Resin	神圣树脂	树脂	蒸汽蒸馏	安静、澄明、仪式感、元系列	真正薰衣草、檀香、雪松、茶树、尤加利	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-B-001｜¥358/5ml｜产地阿曼
+OIL154	印度乳香	Indian Frankincense	Boswellia serrata	Resin	温润树脂	树脂	蒸汽蒸馏	温润、圆润、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL155	白松香	Galbanum	Ferula galbaniflua	Resin	青绿树脂	树脂	蒸汽蒸馏	青绿、强烈、通透	真正薰衣草、檀香、雪松、茶树、尤加利	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL156	阿魏	Asafoetida	Ferula assa-foetida	Resin	蒜臭树脂	树脂	蒸汽蒸馏	蒜臭、强烈、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL157	榄香脂	Opoponax	Commiphora guidottii	Resin	甜润树脂	树脂	蒸汽蒸馏	甜润、粉感、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL158	苏合香	Styrax	Liquidambar orientalis	Resin	暖润树脂	树脂	溶剂/CO2	暖润、粉感、复古	甜橙、乳香、佛手柑、天竺葵、薄荷	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL159	吐鲁香脂	Tolu Balsam	Myroxylon toluiferum	Resin	香草树脂	树脂	溶剂/CO2	香草、甜润、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL160	秘鲁香脂	Peru Balsam	Myroxylon balsamum	Resin	甜润树脂	树脂	溶剂/CO2	甜润、暖厚、复古	甜橙、乳香、佛手柑、天竺葵、薄荷	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL161	枫香	Formosan Sweetgum	Liquidambar formosana	Resin	烟感树脂	树脂	溶剂/CO2	烟感、暖润、复古	真正薰衣草、檀香、雪松、茶树、尤加利	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL162	红没药	Opoponax Red	Commiphora erythraea	Resin	暖甜树脂	树脂	蒸汽蒸馏	暖甜、脂感、复古	甜橙、乳香、佛手柑、天竺葵、薄荷	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL163	黑豆蔻	Black Cardamom	Amomum subulatum	Spice	烟熏香料	种子	蒸汽蒸馏	烟熏、厚重、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL164	孜然	Cumin	Cuminum cyminum	Spice	厚重香料	种子	蒸汽蒸馏	厚重、土感、强烈	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。；光毒性	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL165	多香果	Allspice	Pimenta dioica	Spice	复合香料	浆果	蒸汽蒸馏	复合、辛暖、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。；刺激性	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL166	八角	Star Anise	Illicium verum	Spice	茴香香料	果实	蒸汽蒸馏	茴香、甜润、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。；孕妇慎用	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL167	花椒	Sichuan Pepper	Zanthoxylum bungeanum	Spice	麻凉香料	果皮	蒸汽蒸馏	麻凉、辛香、通透	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。；刺激性；孕妇慎用	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL168	月桂叶	Bay Laurel	Laurus nobilis	Spice	清亮香料	叶	蒸汽蒸馏	清亮、药感、通透、元系列	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。；刺激性；孕妇慎用	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-040｜¥258/5ml｜产地牙买加
+OIL169	香草	Vanilla	Vanilla planifolia	Spice	甜润香草	豆荚	溶剂/CO2	甜润、温暖、包裹	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL170	高良姜	Galangal	Alpinia galanga	Spice	辛凉香料	根茎	蒸汽蒸馏	辛凉、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL171	葫芦巴	Fenugreek	Trigonella foenum-graecum	Spice	坚厚香料	种子	蒸汽蒸馏	坚厚、微苦、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL172	芥末籽	Mustard	Brassica nigra	Spice	强烈香料	种子	蒸汽蒸馏	强烈、穿透、刺激	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。；刺激性	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL173	桂枝	Cassia	Cinnamomum cassia	Spice	浓暖香料	树皮	蒸汽蒸馏	浓暖、强烈、厚重、元系列	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。；刺激性；孕妇慎用	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-033｜¥258/5ml｜产地马达加斯加
+OIL174	荜澄茄	Cubeb	Piper cubeba	Spice	辛凉香料	浆果	蒸汽蒸馏	辛凉、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL175	荜拔	Long Pepper	Piper longum	Spice	辛暖香料	果穗	蒸汽蒸馏	辛暖、厚重、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	辛香类往往更刺激，外用剂量务必保守。；孕妇慎用	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL176	大蒜	Garlic	Allium sativum	Spice	强烈香料	鳞茎	蒸汽蒸馏	强烈、穿透、刺激	甜橙、乳香、佛手柑、天竺葵、薄荷	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL177	西伯利亚冷杉	Siberian Fir	Abies sibirica	Conifer	清透冷杉	针叶	蒸汽蒸馏	清透、冷峻、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL178	海岸松	Maritime Pine	Pinus pinaster	Conifer	厚实松针	针叶	蒸汽蒸馏	厚实、清新、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL179	黑云杉	Black Spruce	Picea mariana	Conifer	沉稳针叶	针叶	蒸汽蒸馏	沉稳、冷峻、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL180	道格拉斯冷杉	Douglas Fir	Pseudotsuga menziesii	Conifer	清甜冷杉	针叶	蒸汽蒸馏	清甜、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL181	银冷杉	White Fir	Abies alba	Conifer	柔和冷杉	针叶	蒸汽蒸馏	柔和、通透、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL182	落叶松	Larch	Larix decidua	Conifer	清苦针叶	针叶/树脂	蒸汽蒸馏	清苦、冷峻、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL183	喜马拉雅冷杉	Himalayan Fir	Abies spectabilis	Conifer	清透冷杉	针叶	蒸汽蒸馏	清透、冷峻、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL184	红云杉	Red Spruce	Picea rubens	Conifer	深绿针叶	针叶	蒸汽蒸馏	深绿、冷峻、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL185	白云杉	White Spruce	Picea glauca	Conifer	柔和针叶	针叶	蒸汽蒸馏	柔和、冷峻、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL186	辐射松	Radiata Pine	Pinus radiata	Conifer	厚实松针	针叶	蒸汽蒸馏	厚实、清新、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL187	意松	Stone Pine	Pinus pinea	Conifer	温润松针	针叶	蒸汽蒸馏	温润、松感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL188	铁杉	Hemlock	Tsuga canadensis	Conifer	清苦针叶	针叶	蒸汽蒸馏	清苦、冷峻、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL189	粉红胡椒	Pink Pepper	Schinus molle	Berry	辛亮浆果	浆果	蒸汽蒸馏	辛亮、通透、轻快	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL190	当归	Angelica Root	Angelica archangelica	Root	青绿根香	根	蒸汽蒸馏	青绿、厚重、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。；光毒性	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL191	甘草	Licorice	Glycyrrhiza glabra	Root	甜润根香	根	蒸汽蒸馏	甜润、厚重、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL192	香附子	Cyperus	Cyperus rotundus	Root	土暖根香	根茎	蒸汽蒸馏	土暖、干燥、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL193	菖蒲	Calamus	Acorus calamus	Root	辛凉根香	根茎	蒸汽蒸馏	辛凉、土感、通透	真正薰衣草、檀香、雪松、茶树、尤加利	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL194	云木香	Costus	Saussurea costus	Root	厚重根香	根	蒸汽蒸馏	厚重、土感、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL195	芹菜籽	Celery Seed	Apium graveolens	Root	清苦根香	种子	蒸汽蒸馏	清苦、清新、通透	真正薰衣草、檀香、雪松、茶树、尤加利	根茎类通常气息沉稳厚重，建议先从少量扩香、低剂量外用开始。	适合作为 Root 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL196	葛缕子	Caraway	Carum carvi	Seed	辛香种子	种子	蒸汽蒸馏	辛香、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	种子类香气集中，外用剂量务必保守，孕妇与幼儿使用前先确认。	适合作为 Seed 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL197	莳萝	Dill	Anethum graveolens	Seed	清甜种子	种子	蒸汽蒸馏	清甜、草本、通透	真正薰衣草、檀香、雪松、茶树、尤加利	种子类香气集中，外用剂量务必保守，孕妇与幼儿使用前先确认。	适合作为 Seed 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL198	香桃木	Myrtle	Myrtus communis	Leaf	清透绿叶	叶/枝	蒸汽蒸馏	清透、洁净、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL199	柠檬香桃木	Lemon Myrtle	Backhousia citriodora	Leaf	柠檬绿叶	叶	蒸汽蒸馏	柠檬、清透、通透	真正薰衣草、檀香、雪松、茶树、尤加利	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL200	帚状香桃木	Honey Myrtle	Melaleuca armillaris	Leaf	清透绿叶	叶	蒸汽蒸馏	清透、洁净、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。

@@ -1,0 +1,100 @@
+OIL301	欧洲蓝莓	Bilberry	Vaccinium myrtillus	Berry	清酸浆果	果实	溶剂/CO2	清酸、冷冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL302	稠李	Bird Cherry	Prunus padus	Berry	苦香浆果	果实/花	蒸汽蒸馏	苦香、木质、含蓄	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL303	刺梨	Cili Fruit	Rosa roxburghii	Fruit	酸甜果香	果实	CO2	酸甜、多汁、饱满	真正薰衣草、檀香、雪松、茶树、尤加利	果实类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Fruit 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL304	余甘子	Amla	Phyllanthus emblica	Fruit	清酸甘甜	果实	CO2	清酸、回甘、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	果实类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Fruit 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL305	火棘	Firethorn	Pyracantha fortuneana	Berry	酸涩浆果	果实	溶剂/CO2	酸涩、厚重、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL306	黑果花楸	Black Chokeberry	Aronia prunifolia	Berry	深沉浆果	果实	溶剂/CO2	深沉、酸涩、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL307	蓝靛果	Blue Honeysuckle	Lonicera caerulea	Berry	酸甜深蓝	果实	溶剂/CO2	酸甜、冷冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL308	红豆杉果	Yew Berry	Taxus baccata	Berry	清苦浆果	假种皮	CO2	清苦、冷峻、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。；毒性风险	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL309	石楠果	Photinia Berry	Photinia serratifolia	Berry	清苦浆果	果实	溶剂/CO2	清苦、草本、安定	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL310	栒子	Cotoneaster	Cotoneaster horizontalis	Berry	干酸浆果	果实	溶剂/CO2	干酸、温和、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL311	海棠果	Crabapple	Malus spectabilis	Fruit	酸甜果香	果实	溶剂/CO2	酸甜、轻快、通透	真正薰衣草、檀香、雪松、茶树、尤加利	果实类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Fruit 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL312	木瓜海棠	Flowering Quince	Chaenomeles speciosa	Fruit	清酸木瓜	果实	CO2	清酸、果香、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	果实类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Fruit 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL313	欧李	Chinese Dwarf Cherry	Prunus humilis	Berry	清甜浆果	果实	溶剂/CO2	清甜、柔和、轻快	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL314	郁李	Chinese Bush Cherry	Prunus japonica	Berry	酸润浆果	果实	溶剂/CO2	酸润、含蓄、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL315	毛樱桃	Nanking Cherry	Prunus tomentosa	Berry	甜润浆果	果实	溶剂/CO2	甜润、柔和、饱满	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL316	麦冬果	Ophiopogon Berry	Ophiopogon japonicus	Berry	清润浆果	果实	溶剂/CO2	清润、水感、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL317	吉祥草果	Reineckea Berry	Reineckea carnea	Berry	深沉浆果	果实	溶剂/CO2	深沉、草本、安定	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL318	万年青果	Rohdea Berry	Rohdea japonica	Berry	厚重浆果	果实	溶剂/CO2	厚重、苦感、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。；毒性风险	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL319	天门冬果	Asparagus Berry	Asparagus cochinchinensis	Berry	清润浆果	果实	溶剂/CO2	清润、水感、柔和	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL320	黄精果	Polygonatum Berry	Polygonatum sibiricum	Berry	温润浆果	果实	溶剂/CO2	温润、甘甜、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL321	玉竹果	Solomon's Seal Berry	Polygonatum odoratum	Berry	柔和浆果	果实	溶剂/CO2	柔和、甘淡、安定	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL322	铃兰果	Lily of Valley Berry	Convallaria majalis	Berry	清苦浆果	果实	溶剂/CO2	清苦、含蓄、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。；毒性风险	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL323	重楼果	Paris Berry	Paris polyphylla	Berry	深沉苦浆	果实	溶剂/CO2	深沉、苦感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。；毒性风险	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL324	七叶一枝花果	Paris Polyphylla Berry	Paris polyphylla var. chinensis	Berry	苦寒浆果	果实	溶剂/CO2	苦寒、厚重、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。；毒性风险	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL325	开口箭果	Tupistra Berry	Campylandra chinensis	Berry	厚重浆果	果实	溶剂/CO2	厚重、草本、安定	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL326	蜘蛛抱蛋果	Cast Iron Berry	Aspidistra elatior	Berry	深沉干浆	果实	溶剂/CO2	深沉、土感、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL327	核桃	Walnut	Juglans regia	Nut	干香坚果	种仁	浸泡	干香、温暖、包裹	真正薰衣草、檀香、雪松、茶树、尤加利	坚果/种子油类性质较温和，但坚果过敏人群仍需留意。	适合作为 Nut 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL328	山核桃	Pecan	Carya illinoinensis	Nut	温润坚果	种仁	浸泡	温润、奶油感、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	坚果/种子油类性质较温和，但坚果过敏人群仍需留意。	适合作为 Nut 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL329	榛子	Hazelnut	Corylus avellana	Nut	香脆坚果	种仁	冷压	香脆、轻盈、柔和	真正薰衣草、檀香、雪松、茶树、尤加利	坚果/种子油类性质较温和，但坚果过敏人群仍需留意。	适合作为 Nut 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+UNIO001	UNIO · 晨光清露	UNIO Morning Dew	UNIO Morning Dew Formula	UNIO·复方	晨光清露	复方调配	复方调配	明亮、醒神、朝气、晨间仪式	元系列柑橘、白千层、迷迭香	复方精油需按推荐场景与浓度使用。	UNIO 核心复方系列
+UNIO002	UNIO · 林间深呼吸	UNIO Forest Breathe	UNIO Forest Breathe Formula	UNIO·复方	林间深呼吸	复方调配	复方调配	通透、森林感、宣肺、冥想呼吸	黑云杉、冷杉、乳香、雪松	复方精油需按推荐场景与浓度使用。	UNIO 核心复方系列
+UNIO003	UNIO · 晚安澄静	UNIO Night Serenity	UNIO Night Serenity Formula	UNIO·复方	晚安澄静	复方调配	复方调配	安宁、助眠、沉静、睡前仪式	真正薰衣草、罗马洋甘菊、檀香	复方精油需按推荐场景与浓度使用。	UNIO 核心复方系列
+UNIO004	UNIO · 归心定志	UNIO Mind Grounding	UNIO Mind Grounding Formula	UNIO·复方	归心定志	复方调配	复方调配	定力、扎根、稳重、静心凝神	乳香、没药、广藿香、岩兰草	复方精油需按推荐场景与浓度使用。	UNIO 核心复方系列
+UNIO005	UNIO · 悦心欢喜	UNIO Joyful Radiance	UNIO Joyful Radiance Formula	UNIO·复方	悦心欢喜	复方调配	复方调配	愉悦、暖心、开怀、聚会空间	甜橙、大马士革玫瑰、佛手柑	复方精油需按推荐场景与浓度使用。	UNIO 核心复方系列
+UNIO006	UNIO · 净界空间喷雾	UNIO Space Purifying Mist	UNIO Space Purifying Blend	UNIO·空间	净界空间喷雾	空间喷雾	空间配方	净澈、清新、除秽、环境调理	茶树、尤加利、柠檬草、绿薄荷	避免直接喷射眼睛与面部黏膜。	UNIO 空间调香系列
+UNIO007	UNIO · 玫瑰纯露 (保加利亚)	UNIO Bulgarian Rose Hydrosol	Rosa damascena Hydrosol	UNIO·纯露	玫瑰纯露	花瓣蒸馏液	蒸馏纯露	水润、舒缓、修护、日常湿敷	荷荷巴油、玫瑰果油、芦荟胶	纯露开封后建议冷藏并在 6 个月内用完。	UNIO 纯露系列
+UNIO008	UNIO · 罗马洋甘菊纯露	UNIO Chamomile Hydrosol	Chamaemelum nobile Hydrosol	UNIO·纯露	洋甘菊纯露	花朵蒸馏液	蒸馏纯露	安抚、温和、退红、敏感肌友好	甜杏仁油、金盏花浸泡油	纯露开封后建议冷藏并在 6 个月内用完。	UNIO 纯露系列
+UNIO009	UNIO · 橙花纯露 (摩洛哥)	UNIO Neroli Hydrosol	Citrus aurantium Hydrosol	UNIO·纯露	橙花纯露	花朵蒸馏液	蒸馏纯露	控油、亮肤、清雅、提振气色	摩洛哥坚果油、葡萄籽油	纯露开封后建议冷藏并在 6 个月内用完。	UNIO 纯露系列
+UNIO010	UNIO · 真正薰衣草纯露	UNIO Lavender Hydrosol	Lavandula angustifolia Hydrosol	UNIO·纯露	薰衣草纯露	花穗蒸馏液	蒸馏纯露	平衡水油、净痘、舒缓、晒后修护	荷荷巴油、茶树精油	纯露开封后建议冷藏并在 6 个月内用完。	UNIO 纯露系列
+UNIO011	UNIO · 茶树纯露	UNIO Tea Tree Hydrosol	Melaleuca alternifolia Hydrosol	UNIO·纯露	茶树纯露	叶片蒸馏液	蒸馏纯露	净痘、清爽、收敛、油皮清洁	琼崖海棠油、薰衣草纯露	纯露开封后建议冷藏并在 6 个月内用完。	UNIO 纯露系列
+UNIO012	UNIO · 黄金荷荷巴基底油	UNIO Golden Jojoba Carrier Oil	Simmondsia chinensis	Nut	金黄滋养	冷压种子油	冷压基础油	亲肤、平衡水油、极佳延展、万能载体	各类单方精油（1%~3% 稀释）	冷压植物油需避光阴凉保存。	UNIO 专业基底油系列
+UNIO013	UNIO · 甜杏仁基底油	UNIO Sweet Almond Carrier Oil	Prunus dulcis	Nut	柔滑轻盈	冷压种仁油	冷压基础油	温和、易吸收、婴幼母婴友好、身体按摩	真正薰衣草、甜橙、罗马洋甘菊	坚果过敏人群慎用。	UNIO 专业基底油系列
+UNIO014	UNIO · 玫瑰果修护基底油	UNIO Rosehip Seed Oil	Rosa rubiginosa	Fruit	深层修护	冷压果籽油	冷压基础油	抗氧、淡纹、促愈、面部高定精华油	乳香、永久花、大马士革玫瑰	多不饱和脂肪酸丰富，建议开封后尽快使用。	UNIO 专业基底油系列
+UNIO015	UNIO · 琼崖海棠净瑕基底油	UNIO Tamanu Carrier Oil	Calophyllum inophyllum	Nut	坚韧修护	冷压坚果油	冷压基础油	修护受损、净瑕屏障、天然厚重质感	茶树、薰衣草、没药	质地浓稠，可与荷荷巴油按 1:4 调配使用。	UNIO 专业基底油系列
+UNIO016	UNIO · 极简冷香仪 (无水扩香)	UNIO Pure Nebulizer	Cold Air Diffusion Apparatus	器具	冷香扩散	仪器设备	无水微孔雾化	纯精油直出、免加热、保留完整分子活性	单方精油、UNIO复方精油	使用纯精油雾化，定期用酒精清洗喷嘴。	UNIO 专业香氛器具
+UNIO017	UNIO · 静息超声波香薰机	UNIO Ultrasonic Aroma Diffuser	Ultrasonic Wave Diffuser	器具	超声水雾	仪器设备	超声波高频震荡	水雾细腻、氛围柔光、静音助眠、20~40m²	单方精油 (3~5滴)、UNIO复方精油	建议使用纯净水，避免精油残留沉淀。	UNIO 专业香氛器具
+UNIO018	UNIO · 玄武黑陶扩香石伴侣	UNIO Basalt Stone Diffuser	Porous Ceramic Aroma Stone	器具	天然陶石	器具载体	高密度微孔陶石	随身扩香、桌面呼吸、零能耗、纯粹气味	各类单方精油 (2~3滴局部点滴)	更换不同调性精油前可用温水冲洗晾干。	UNIO 专业香氛器具
+OIL330	甜橙油	Sweet Orange Oil	Citrus sinensis	Citrus	甜美柑橘	果皮	冷压	甜美、明亮、元系列	柠檬、乳香、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	元系列SKU Y-S-064｜¥158/5ml｜产地意大利
+OIL331	甜橙油(有机)	Organic Sweet Orange Oil	Citrus sinensis	Citrus	有机甜美柑橘	果皮	冷压	有机、甜润、元系列	肉桂叶、乳香、薰衣草	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	元系列SKU Y-S-065｜¥158/5ml｜产地墨西哥
+OIL332	柠檬油(有机)	Organic Lemon Oil	Citrus limon	Citrus	有机明亮柑橘	果皮	冷压	有机、清爽、元系列	甜橙、薰衣草、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	元系列SKU Y-S-066｜¥98/5ml｜产地意大利
+OIL333	佛手柑油(有机)	Organic Bergamot Oil	Citrus bergamia	Citrus	有机优雅柑橘	果皮	冷压	有机、优雅、元系列	薰衣草、雪松、甜橙	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	元系列SKU Y-S-067｜¥158/5ml｜产地意大利
+OIL334	葡萄柚油	Grapefruit Oil	Citrus × paradisi	Citrus	轻快柑橘	果皮	冷压	轻快、清爽、元系列	薄荷、甜橙、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	元系列SKU Y-S-068｜¥138/5ml｜产地南非
+OIL335	红桔油(有机)	Organic Red Mandarin Oil	Citrus reticulata	Citrus	有机红桔	果皮	冷压	有机、圆润、元系列	甜橙、罗马洋甘菊、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	元系列SKU Y-B-004｜¥138/10ml｜产地中国
+OIL336	葡萄柚油(有机)	Organic Grapefruit Oil	Citrus × paradisi	Citrus	有机葡萄柚	果皮	冷压	有机、清爽、元系列	薄荷、乳香、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	元系列SKU Y-B-005｜¥108/100ml｜产地美国
+OIL337	苦橙油	Bitter Orange Oil	Citrus aurantium	Citrus	苦甜柑橘	果皮	冷压	苦甜、层次、元系列	薰衣草、乳香、甜橙	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	元系列SKU Y-H-098｜¥148/10ml｜产地意大利
+OIL338	苦橙叶油	Petitgrain Oil	Citrus aurantium	Citrus	绿意苦橙	叶/嫩枝	蒸汽蒸馏	绿意、平衡、元系列	薰衣草、雪松、橙花	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	元系列SKU Y-H-099｜¥158/10ml｜产地巴拉圭
+OIL339	苦橙叶油(有机)	Organic Petitgrain Oil	Citrus aurantium	Citrus	有机苦橙叶	叶/嫩枝	蒸汽蒸馏	有机、绿意、元系列	雪松、橙花、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	元系列SKU Y-S-063｜¥158/5ml｜产地巴拉圭
+OIL340	真正薰衣草油(有机)	Organic True Lavender Oil	Lavandula angustifolia	Floral	有机高地薰衣草	花穗	蒸汽蒸馏	有机、高地、安定、元系列	甜橙、乳香、雪松	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-M-047｜¥158/5ml｜产地法国普罗旺斯
+OIL341	高地真正薰衣草油	Alpine True Lavender Oil	Lavandula angustifolia	Floral	高地薰衣草	花穗	蒸汽蒸馏	高地、柔和、元系列	佛手柑、檀香、乳香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-M-054｜¥158/5ml｜产地法国
+OIL342	天竺葵油(有机)	Organic Geranium Oil	Pelargonium graveolens	Floral	有机波旁天竺葵	叶/花	蒸汽蒸馏	有机、平衡、元系列	玫瑰、薰衣草、佛手柑	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-M-044｜¥188/5ml｜产地埃及
+OIL343	波旁天竺葵油	Bourbon Geranium Oil	Pelargonium graveolens cv. Bourbon	Floral	波旁天竺葵	叶/花	蒸汽蒸馏	波旁、蜜润、元系列	檀香、乳香、玫瑰	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-M-046｜¥188/5ml｜产地埃及
+OIL344	天竺葵油	Geranium Oil	Pelargonium graveolens	Floral	清润天竺葵	叶/花	蒸汽蒸馏	清润、平衡、元系列	薰衣草、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-H-073｜¥158/10ml｜产地中国
+OIL345	依兰依兰油(特级)	Ylang Ylang Extra Oil	Cananga odorata	Floral	特级依兰	花朵	蒸汽蒸馏	特级、浓郁、异域、元系列	佛手柑、檀香、茉莉	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-007｜¥158/5ml｜产地马达加斯加
+OIL346	依兰依兰油(完全)	Ylang Ylang Complete Oil	Cananga odorata	Floral	完全依兰	花朵	蒸汽蒸馏	完全、醇厚、元系列	佛手柑、乳香、檀香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-015｜¥358/5ml｜产地马达加斯加
+OIL347	依兰依兰油(一级)	Ylang Ylang I Oil	Cananga odorata	Floral	一级依兰	花朵	蒸汽蒸馏	一级、甜润、元系列	檀香、茉莉、佛手柑	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-020｜¥218/5ml｜产地马达加斯加
+OIL348	依兰依兰油(二级)	Ylang Ylang II Oil	Cananga odorata	Floral	二级依兰	花朵	蒸汽蒸馏	二级、花香、元系列	乳香、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-023｜¥258/5ml｜产地马达加斯加
+OIL349	依兰依兰油(三级)	Ylang Ylang III Oil	Cananga odorata	Floral	三级依兰	花朵	蒸汽蒸馏	三级、木质白花、元系列	檀香、雪松、乳香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-H-070｜¥238/10ml｜产地马达加斯加
+OIL350	大花茉莉油(有机)	Organic Grandiflorum Jasmine Oil	Jasminum grandiflorum	Floral	有机大花茉莉	花朵	溶剂/CO2	有机、深邃、元系列	橙花、檀香、玫瑰	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-013｜¥858/5ml｜产地印度
+OIL351	大花茉莉油	Grandiflorum Jasmine Oil	Jasminum grandiflorum	Floral	大花茉莉	花朵	溶剂/CO2	深邃、迷人、元系列	橙花、檀香、乳香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-H-071｜¥858/5ml｜产地印度
+OIL352	大马士革玫瑰油(有机)	Organic Damask Rose Oil	Rosa × damascena	Floral	有机大马士革玫瑰	花朵	蒸汽蒸馏	有机、奢华、元系列	檀香、橙花、天竺葵	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-H-069｜¥1358/5ml｜产地保加利亚
+OIL353	永久花油(有机)	Organic Immortelle Oil	Helichrysum italicum	Floral	有机永久花	花/叶	蒸汽蒸馏	有机、蜜甜、修护、元系列	甜橙、乳香、佛手柑	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-014｜¥958/5ml｜产地法国科西嘉
+OIL354	永久花油	Immortelle Oil	Helichrysum italicum	Floral	科西嘉永久花	花/叶	蒸汽蒸馏	蜜甜、草木、元系列	乳香、天竺葵、檀香	花香类往往更适合低剂量、慢慢闻。	元系列SKU Y-J-016｜¥958/5ml｜产地克罗地亚
+OIL355	快乐鼠尾草油(有机)	Organic Clary Sage Oil	Salvia sclarea	Herbaceous	有机快乐鼠尾草	花穗/叶	蒸汽蒸馏	有机、柔和、放松、元系列	薰衣草、天竺葵、佛手柑	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-M-041｜¥188/5ml｜产地东欧
+OIL356	快乐鼠尾草油	Clary Sage Oil	Salvia sclarea	Herbaceous	快乐鼠尾草	花穗/叶	蒸汽蒸馏	草本、微甜、元系列	柠檬、雪松、薰衣草	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-M-045｜¥188/5ml｜产地南非
+OIL357	欧薄荷油(有机)	Organic Peppermint Oil	Mentha × piperita	Mint	有机胡椒薄荷	叶	蒸汽蒸馏	有机、清凉、醒脑、元系列	柠檬、薰衣草、尤加利	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。；幼儿慎用	元系列SKU Y-J-004｜¥118/10ml｜产地阿尔巴尼亚
+OIL358	茶树油(有机)	Organic Tea Tree Oil	Melaleuca alternifolia	Herbaceous	有机茶树	叶	蒸汽蒸馏	有机、清洁、穿透、元系列	薰衣草、柠檬、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-J-003｜¥138/10ml｜产地澳大利亚
+OIL359	茶树油	Tea Tree Oil	Melaleuca alternifolia	Herbaceous	澳洲茶树	叶	蒸汽蒸馏	清洁、实用、元系列	尤加利、雪松、薰衣草	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-M-029｜¥188/5ml｜产地澳洲
+OIL360	茶树油(特级)	Premium Tea Tree Oil	Melaleuca alternifolia	Herbaceous	特级澳洲茶树	叶	蒸汽蒸馏	特级、洁净、元系列	柠檬、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-M-053｜¥188/5ml｜产地澳洲
+OIL361	蓝胶尤加利油(有机)	Organic Eucalyptus Globulus Oil	Eucalyptus globulus	Camphoraceous	有机蓝胶尤加利	叶	蒸汽蒸馏	有机、通透、呼吸感、元系列	柠檬、薄荷、乳香	这类精油通常更强势，幼儿、孕期和敏感皮肤要格外谨慎。；幼儿慎用	元系列SKU Y-M-032｜¥88/5ml｜产地澳洲
+OIL362	澳洲尤加利油(有机)	Organic Eucalyptus Radiata Oil	Eucalyptus radiata	Camphoraceous	有机辐射尤加利	叶	蒸汽蒸馏	有机、柔和尤加利、元系列	茶树、柠檬、薰衣草	这类精油通常更强势，幼儿、孕期和敏感皮肤要格外谨慎。	元系列SKU Y-J-002｜¥138/10ml｜产地澳大利亚
+OIL363	香茅油(有机)	Organic Citronella Oil	Cymbopogon winterianus	Herbaceous	有机香茅	叶	蒸汽蒸馏	有机、清新、空气感、元系列	柠檬草、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	元系列SKU Y-J-005｜¥178/10ml｜产地法国/印度洋
+OIL364	甜罗勒油(有机)	Organic Sweet Basil Oil	Ocimum basilicum	Herbaceous	有机甜罗勒	叶	蒸汽蒸馏	有机、绿色活跃、元系列	柠檬、薄荷、甜橙	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕期慎用	元系列SKU Y-M-048｜¥138/100ml｜产地印度/埃及
+OIL365	大西洋雪松油(有机)	Organic Atlas Cedarwood Oil	Cedrus atlantica	Woody	有机大西洋雪松	木材	蒸汽蒸馏	有机、干燥沉稳、元系列	佛手柑、乳香、薰衣草	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-T-086｜¥158/5ml｜产地摩洛哥
+OIL366	印度檀香油	Indian Sandalwood Oil	Santalum album	Woody	老山檀香	木材	蒸汽蒸馏	老山檀、奶油圆润、元系列	玫瑰、乳香、佛手柑	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-M-024｜¥688/10ml｜产地印度迈索尔
+OIL367	东印度檀香油(有机)	Organic East Indian Sandalwood Oil	Santalum album	Woody	有机东印度檀香	木材	蒸汽蒸馏	有机、高级檀香、元系列	乳香、佛手柑、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-T-085｜¥1580/5ml｜产地印度
+OIL368	东印度檀香油	East Indian Sandalwood Oil	Santalum album	Woody	东印度老山檀香	木材	蒸汽蒸馏	极品老山、安神定志、元系列	玫瑰、橙花、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-T-099｜¥1580/5ml｜产地印度
+OIL369	广藿香油(有机)	Organic Patchouli Oil	Pogostemon cablin	Woody	有机广藿香	叶	蒸汽蒸馏	有机、土质香脂、元系列	甜橙、玫瑰、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-S-058｜¥158/5ml｜产地印度尼西亚
+OIL370	广藿香油	Patchouli Oil	Pogostemon cablin	Woody	印尼广藿香	叶	蒸汽蒸馏	土质厚实、复古、元系列	檀香、佛手柑、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-T-083｜¥158/5ml｜产地印尼
+OIL371	索马里乳香油(有机)	Organic Somali Frankincense Oil	Boswellia sacra	Resin	有机索马里乳香	树脂	蒸汽蒸馏	有机、神圣树脂、元系列	橙花、檀香、没药	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-008｜¥358/5ml｜产地索马里
+OIL372	埃塞俄比亚乳香油(有机)	Organic Ethiopian Frankincense Oil	Boswellia carterii	Resin	有机埃塞俄比亚乳香	树脂	蒸汽蒸馏	有机、澄明仪式感、元系列	檀香、雪松、橙花	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-019｜¥358/5ml｜产地埃塞俄比亚
+OIL373	阿曼绿乳香油	Oman Green Frankincense Oil	Boswellia sacra	Resin	阿曼至尊绿乳香	树脂	蒸汽蒸馏	至尊绿乳、澄澈、元系列	檀香、玫瑰、橙花	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-001｜¥358/5ml｜产地阿曼
+OIL374	没药油(有机)	Organic Myrrh Oil	Commiphora myrrha	Resin	有机没药	树脂	蒸汽蒸馏	有机、苦香安稳、元系列	乳香、檀香、玫瑰	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-002｜¥358/5ml｜产地索马里
+OIL375	没药油	Myrrh Oil	Commiphora myrrha	Resin	索马里没药	树脂	蒸汽蒸馏	苦香树脂、古典、元系列	橙花、雪松、乳香	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-014｜¥358/5ml｜产地索马里
+OIL376	安息香油(有机)	Organic Benzoin Oil	Styrax benzoin	Resin	有机安息香	树脂	溶剂/CO2	有机、香草树脂、元系列	檀香、香橙、乳香	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-E-068｜¥288/10ml｜产地印尼苏门答腊
+OIL377	安息香油(精选)	Select Benzoin Oil	Styrax benzoin	Resin	精选安息香	树脂	溶剂/CO2	甜润包裹、安抚、元系列	橙花、雪松、檀香	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-003｜¥168/100ml｜产地印尼
+OIL378	安息香油	Benzoin Oil	Styrax benzoin	Resin	印尼安息香	树脂	溶剂/CO2	香草甜润、元系列	乳香、檀香、甜橙	树脂类通常较厚重，建议先从少量扩香开始。	元系列SKU Y-B-016｜¥158/5ml｜产地印尼
+OIL379	丝柏油(有机)	Organic Cypress Oil	Cupressus sempervirens	Woody	有机丝柏	枝叶	蒸汽蒸馏	有机、挺拔通透、元系列	杜松浆果、雪松、柠檬	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-M-025｜¥158/5ml｜产地法国
+OIL380	丝柏油	Cypress Oil	Cupressus sempervirens	Woody	地中海丝柏	枝叶	蒸汽蒸馏	干净木气、挺拔、元系列	雪松、佛手柑、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-T-109｜¥158/5ml｜产地西班牙
+OIL381	杜松浆果油(有机)	Organic Juniper Berry Oil	Juniperus communis	Woody	有机杜松浆果	果实	蒸汽蒸馏	有机、清冷净化、元系列	柏木、柠檬、薰衣草	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-S-059｜¥138/100ml｜产地苏格兰
+OIL382	欧洲赤松油(有机)	Organic Scots Pine Oil	Pinus sylvestris	Woody	有机欧洲赤松	针叶	蒸汽蒸馏	有机、森林松针、元系列	雪松、尤加利、柠檬	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	元系列SKU Y-M-027｜¥158/100ml｜产地俄罗斯西伯利亚

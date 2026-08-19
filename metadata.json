@@ -1,0 +1,6 @@
+{
+  "name": "一人一方 UNIO Personal Scent",
+  "description": "AI 驱动的高定身心芳香处方、气味情绪追踪与东方极境调香工坊",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

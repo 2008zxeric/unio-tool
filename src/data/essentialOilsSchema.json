@@ -1,0 +1,361 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UNIOEssentialOilsDatabase",
+  "description": "UNIO Aroma 200+ Core Essential Oils Standardized Database Schema for AI Consultation and Clinical Aromatherapy",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "pinyin",
+    "botany",
+    "tcm",
+    "olfactory",
+    "chemistry",
+    "safety",
+    "efficacy",
+    "application",
+    "blending"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier slug (e.g. 'wood_agarwood_hainan')"
+    },
+    "name": {
+      "type": "string",
+      "description": "Standard Chinese common name (e.g. '海南沉香 (白木香)')"
+    },
+    "pinyin": {
+      "type": "string",
+      "description": "Standard Pinyin with tone accents"
+    },
+    "botany": {
+      "type": "object",
+      "description": "Botanical taxonomy standards based on Kew POWO/WCVP and ISO 4720",
+      "required": [
+        "latinName",
+        "botanicalFamily",
+        "botanicalGenus",
+        "plantPart",
+        "extractionMethod",
+        "terroirOrigin"
+      ],
+      "properties": {
+        "latinName": {
+          "type": "string",
+          "description": "Botanical binomial Latin name"
+        },
+        "botanicalFamily": {
+          "type": "string",
+          "description": "Plant family (e.g. 瑞香科 Thymelaeaceae)"
+        },
+        "botanicalGenus": {
+          "type": "string",
+          "description": "Plant genus (e.g. 沉香属 Aquilaria)"
+        },
+        "chemotype": {
+          "type": "string",
+          "description": "Chemotype specification (e.g. CT Linalool)"
+        },
+        "isoStandard": {
+          "type": "string",
+          "description": "ISO 4720 standard nomenclature reference"
+        },
+        "synonyms": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Botanical and historical synonyms"
+        },
+        "plantPart": {
+          "type": "string",
+          "description": "Harvested and distilled plant part"
+        },
+        "extractionMethod": {
+          "type": "string",
+          "description": "Extraction method (e.g. 超临界CO2萃取, 水蒸气蒸馏)"
+        },
+        "terroirOrigin": {
+          "type": "string",
+          "description": "Geographic origin / terroir"
+        }
+      }
+    },
+    "tcm": {
+      "type": "object",
+      "description": "Traditional Chinese Medicine Five Elements and Meridian Tropism",
+      "required": [
+        "element",
+        "subcategory",
+        "tcmMeridian",
+        "tcmNature",
+        "tcmQiDynamic"
+      ],
+      "properties": {
+        "element": {
+          "type": "string",
+          "enum": ["木", "火", "土", "金", "水"],
+          "description": "Five Elements classification"
+        },
+        "subcategory": {
+          "type": "string",
+          "description": "Subcategory (e.g. 东方珍木, 疏肝柑橘, 芳香草本, 清幽白花)"
+        },
+        "tcmMeridian": {
+          "type": "string",
+          "description": "Meridian tropism (归经, e.g. 归肝、脾、肾经)"
+        },
+        "tcmNature": {
+          "type": "string",
+          "description": "Nature and flavor (性味, e.g. 性微温，味辛微苦)"
+        },
+        "tcmQiDynamic": {
+          "type": "string",
+          "description": "Qi movement dynamic (气机升降, e.g. 生发疏肝 · 条达气机)"
+        }
+      }
+    },
+    "olfactory": {
+      "type": "object",
+      "description": "Olfactory pyramid and sensory characterization",
+      "required": [
+        "noteType",
+        "scentFamily",
+        "scentKeywords",
+        "firstImpression"
+      ],
+      "properties": {
+        "noteType": {
+          "type": "string",
+          "enum": ["top", "middle", "base"],
+          "description": "Volatile note tier in fragrance pyramid"
+        },
+        "scentFamily": {
+          "type": "string",
+          "description": "Fragrance family category"
+        },
+        "scentKeywords": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Key scent descriptive tags"
+        },
+        "firstImpression": {
+          "type": "string",
+          "description": "Initial olfactory note sensation"
+        },
+        "deepNote": {
+          "type": "string",
+          "description": "Deep resonance and heart drydown note"
+        },
+        "sensoryAtmosphere": {
+          "type": "string",
+          "description": "Atmospheric mood and synesthetic landscape"
+        }
+      }
+    },
+    "chemistry": {
+      "type": "object",
+      "description": "Biochemical molecular profile (GC-MS)",
+      "required": [
+        "chemicalFamily",
+        "primaryMolecules"
+      ],
+      "properties": {
+        "chemicalFamily": {
+          "type": "string",
+          "description": "Dominant biochemical family (e.g. Esters, Monoterpenes, Sesquiterpenols)"
+        },
+        "primaryMolecules": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "percentage"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Chemical compound name in Chinese and English"
+              },
+              "percentage": {
+                "type": "string",
+                "description": "Estimated GC-MS percentage range"
+              },
+              "functionalGroup": {
+                "type": "string",
+                "description": "Functional biochemical group"
+              },
+              "therapeuticPathway": {
+                "type": "string",
+                "description": "Neurological / biological mechanism of action"
+              }
+            }
+          }
+        },
+        "gcmsNotes": {
+          "type": "string",
+          "description": "GC-MS chromatography notes"
+        }
+      }
+    },
+    "safety": {
+      "type": "object",
+      "description": "Tisserand & IFRA safety guidelines and contraindications",
+      "required": [
+        "safetyLevel",
+        "maxDermalPercentage",
+        "isPhototoxic",
+        "isPregnancySafe",
+        "isPetSafe",
+        "isKidSafe",
+        "generalCautions",
+        "contraindications"
+      ],
+      "properties": {
+        "safetyLevel": {
+          "type": "string",
+          "enum": ["Level 1: 极度温和", "Level 2: 标准安全", "Level 3: 需严格稀释", "Level 4: 禁忌限制"],
+          "description": "Standardized safety rating"
+        },
+        "maxDermalPercentage": {
+          "type": "number",
+          "description": "IFRA maximum safe dermal limit in leave-on skin formulas (%)"
+        },
+        "isPhototoxic": {
+          "type": "boolean",
+          "description": "Whether the oil contains UV photosensitizers (furanocoumarins)"
+        },
+        "phototoxicityNote": {
+          "type": "string",
+          "description": "Photosensitivity avoidance directions"
+        },
+        "isPregnancySafe": {
+          "type": "boolean",
+          "description": "Safe for pregnancy/nursing when properly diluted"
+        },
+        "pregnancyNote": {
+          "type": "string",
+          "description": "Pregnancy specific precautions"
+        },
+        "isPetSafe": {
+          "type": "boolean",
+          "description": "Safe around household dogs and cats"
+        },
+        "petNote": {
+          "type": "string",
+          "description": "Pet metabolic cautions (especially felines)"
+        },
+        "isKidSafe": {
+          "type": "boolean",
+          "description": "Safe for pediatric use (over 3 years old)"
+        },
+        "childAgeLimitYears": {
+          "type": "number",
+          "description": "Minimum safe age in years"
+        },
+        "generalCautions": {
+          "type": "string",
+          "description": "General safety summary statement"
+        },
+        "contraindications": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Specific contraindication population list"
+        }
+      }
+    },
+    "efficacy": {
+      "type": "object",
+      "description": "Holistic clinical benefits and lifestyle indications",
+      "required": [
+        "emotionalBenefit",
+        "physicalBenefit",
+        "targetPersona"
+      ],
+      "properties": {
+        "emotionalBenefit": {
+          "type": "string",
+          "description": "Neuropsychological and mood benefits"
+        },
+        "physicalBenefit": {
+          "type": "string",
+          "description": "Somatic, meridian, and respiratory physical benefits"
+        },
+        "targetPersona": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Ideal beneficiary personas"
+        },
+        "suggestedScenarios": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Recommended application scenarios"
+        }
+      }
+    },
+    "application": {
+      "type": "object",
+      "description": "Standardized application rituals and dilution guidelines",
+      "required": [
+        "diffuserAdvice",
+        "palmInhalationAdvice",
+        "bodyApplicationAdvice",
+        "bathCaution"
+      ],
+      "properties": {
+        "diffuserAdvice": {
+          "type": "string",
+          "description": "Diffuser dosage and room size guidance"
+        },
+        "palmInhalationAdvice": {
+          "type": "string",
+          "description": "Palm inhalation and breathing rhythm guidance"
+        },
+        "bodyApplicationAdvice": {
+          "type": "string",
+          "description": "Carrier dilution ratio and acupoint application"
+        },
+        "bathCaution": {
+          "type": "string",
+          "description": "Mandatory emulsification warning for bathing"
+        },
+        "idealTimesOfDay": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["morning", "daytime", "evening", "night"]
+          },
+          "description": "Recommended circadian timing"
+        }
+      }
+    },
+    "blending": {
+      "type": "object",
+      "description": "Aromatherapy blending rules and synergistic partners",
+      "required": [
+        "compatiblePartners",
+        "roleInFormula"
+      ],
+      "properties": {
+        "compatiblePartners": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Synergistic botanical partner oils"
+        },
+        "roleInFormula": {
+          "type": "string",
+          "description": "Role in TCM formulation hierarchy (君/臣/佐/使)"
+        },
+        "synergyNotes": {
+          "type": "string",
+          "description": "Synergistic rationale"
+        }
+      }
+    },
+    "culturalLore": {
+      "type": "object",
+      "properties": {
+        "story": { "type": "string", "description": "Cultural history and literature lore" },
+        "synesthesia": { "type": "string", "description": "Synesthetic color and musical tone" },
+        "perfumerTrivia": { "type": "string", "description": "Perfumery formulation trivia" }
+      }
+    }
+  }
+}

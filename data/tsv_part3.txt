@@ -1,0 +1,100 @@
+OIL201	茴香香桃木	Anise Myrtle	Syzygium anisatum	Leaf	茴香绿叶	叶	蒸汽蒸馏	茴香、清凉、草本	真正薰衣草、檀香、雪松、茶树、尤加利	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL202	红千层	Bottlebrush	Callistemon citrinus	Leaf	清亮绿叶	叶	蒸汽蒸馏	清亮、通透、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL203	蓝胶香桃木	Blue Myrtle	Melaleuca squarrosa	Leaf	清透绿叶	叶	蒸汽蒸馏	清透、洁净、通透	真正薰衣草、檀香、雪松、茶树、尤加利	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL204	沼泽香桃木	Swamp Paperbark	Melaleuca ericifolia	Leaf	柔润绿叶	叶	蒸汽蒸馏	柔润、薰衣草感、安抚	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL205	柠檬薄荷	Lemon Mint	Mentha citrata	Herbaceous	柠檬薄荷	叶	蒸汽蒸馏	柠檬、柔和、清新	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL206	水薄荷	Bergamot Mint	Mentha aquatica var. citrata	Herbaceous	柔和薄荷	叶	蒸汽蒸馏	柔和、清凉、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL207	野薄荷	Field Mint	Mentha arvensis	Mint	清凉薄荷	叶	蒸汽蒸馏	清凉、清爽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。；幼儿慎用	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL208	普列薄荷	Pennyroyal	Mentha pulegium	Mint	清苦薄荷	叶	蒸汽蒸馏	清苦、清凉、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。；毒性风险；孕妇慎用	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL209	科西嘉薄荷	Corsican Mint	Mentha requienii	Mint	柔和薄荷	叶	蒸汽蒸馏	柔和、清甜、清新	真正薰衣草、檀香、雪松、茶树、尤加利	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL210	长叶薄荷	Horse Mint	Mentha longifolia	Mint	清凉薄荷	叶	蒸汽蒸馏	清凉、草本、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL211	大叶迷迭香	Rosemary	Salvia rosmarinus var. latifolia	Herbaceous	清凉草本	花/叶	蒸汽蒸馏	清凉、通透、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕妇慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL212	粉花迷迭香	Pink Rosemary	Salvia rosmarinus 'Roseus'	Herbaceous	柔和草本	花/叶	蒸汽蒸馏	柔和、草本、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL213	匍匐迷迭香	Prostrate Rosemary	Salvia rosmarinus 'Prostratus'	Herbaceous	清亮草本	花/叶	蒸汽蒸馏	清亮、草本、清新	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL214	白花迷迭香	White Rosemary	Salvia rosmarinus 'Albus'	Herbaceous	清润草本	花/叶	蒸汽蒸馏	清润、草本、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL215	蓝花迷迭香	Blue Rosemary	Salvia rosmarinus 'Tuscan Blue'	Herbaceous	通透草本	花/叶	蒸汽蒸馏	通透、清凉、草本	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL216	树形石楠	Tree Heath	Erica arborea	Herbaceous	清苦草本	枝叶	蒸汽蒸馏	清苦、冷峻、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL217	苏格兰石楠	Heather	Calluna vulgaris	Herbaceous	柔和草本	花/叶	蒸汽蒸馏	柔和、干燥、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL218	欧石楠	Bell Heather	Erica cinerea	Herbaceous	清亮草本	花/叶	蒸汽蒸馏	清亮、草本、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL219	沼泽石楠	Cross-leaved Heath	Erica tetralix	Herbaceous	清透草本	花/叶	蒸汽蒸馏	清透、冷冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL220	高山石楠	Alpine Heath	Erica carnea	Herbaceous	冷冽草本	花/叶	蒸汽蒸馏	冷冽、高山、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL221	科西嘉岩蔷薇	Corsican Cistus	Cistus creticus	Herbaceous	树脂草木	枝叶	溶剂/CO2	树脂、暖润、厚重	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL222	白岩蔷薇	White Cistus	Cistus albidus	Herbaceous	柔和树脂	枝叶	溶剂/CO2	柔和、树脂、安抚	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL223	月桂叶岩蔷薇	Laurel-leaf Cistus	Cistus laurifolius	Herbaceous	清透树脂	枝叶	溶剂/CO2	清透、树脂、通透	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL224	鼠尾草叶岩蔷薇	Sage-leaf Cistus	Cistus salviifolius	Herbaceous	草本树脂	枝叶	溶剂/CO2	草本、树脂、清新	甜橙、乳香、佛手柑、天竺葵、薄荷	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL225	绒毛岩蔷薇	Hairy Cistus	Cistus villosus	Herbaceous	厚重树脂	枝叶	溶剂/CO2	厚重、脂感、复古	真正薰衣草、檀香、雪松、茶树、尤加利	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL226	波旁天竺葵	Bourbon Geranium	Pelargonium graveolens cv. Bourbon	Floral	蜜润玫瑰	叶/花	蒸汽蒸馏	蜜润、玫瑰、柔和	甜橙、乳香、佛手柑、天竺葵、薄荷	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL227	埃及天竺葵	Egyptian Geranium	Pelargonium graveolens	Floral	绿意玫瑰	叶/花	蒸汽蒸馏	绿意、柔和、圆润	真正薰衣草、檀香、雪松、茶树、尤加利	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL228	马达加斯加天竺葵	Madagascar Geranium	Pelargonium asperum	Floral	甜润玫瑰	叶/花	蒸汽蒸馏	甜润、玫瑰、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL229	中国天竺葵	Chinese Geranium	Pelargonium graveolens	Floral	清润玫瑰	叶/花	蒸汽蒸馏	清润、绿意、通透	真正薰衣草、檀香、雪松、茶树、尤加利	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL230	南非天竺葵	Rose Geranium	Pelargonium capitatum	Floral	粉润玫瑰	叶/花	蒸汽蒸馏	粉润、玫瑰、柔和	甜橙、乳香、佛手柑、天竺葵、薄荷	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL231	红松	Red Pine	Pinus koraiensis	Conifer	厚实松针	针叶	蒸汽蒸馏	厚实、松感、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL232	黑松	Black Pine	Pinus nigra	Conifer	冷峻松针	针叶	蒸汽蒸馏	冷峻、沉稳、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL233	白皮松	Lacebark Pine	Pinus bungeana	Conifer	清润松针	针叶	蒸汽蒸馏	清润、松感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL234	油松	Chinese Pine	Pinus tabuliformis	Conifer	深沉松针	针叶	蒸汽蒸馏	深沉、干燥、温暖	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL235	黄山松	Huangshan Pine	Pinus taiwanensis	Conifer	清冷高山	针叶	蒸汽蒸馏	清冷、高山、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL236	马尾松	Masson Pine	Pinus massoniana	Conifer	厚实松针	针叶	蒸汽蒸馏	厚实、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL237	长白松	Changbai Pine	Pinus sylvestris var. sylvestriformis	Conifer	冷冽松针	针叶	蒸汽蒸馏	冷冽、高山、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL238	西黄松	Ponderosa Pine	Pinus ponderosa	Conifer	温暖松针	针叶	蒸汽蒸馏	温暖、树脂、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL239	扭叶松	Lodgepole Pine	Pinus contorta	Conifer	清透松针	针叶	蒸汽蒸馏	清透、冷峻、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL240	北美白松	Eastern White Pine	Pinus strobus	Conifer	柔和松针	针叶	蒸汽蒸馏	柔和、清新、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL241	巨杉	Giant Sequoia	Sequoiadendron giganteum	Conifer	庄严木针	针叶/木	蒸汽蒸馏	庄严、厚重、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL242	北美红杉	Coast Redwood	Sequoia sempervirens	Conifer	深沉木针	针叶/木	蒸汽蒸馏	深沉、木质、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL243	水杉	Dawn Redwood	Metasequoia glyptostroboides	Conifer	清润针叶	针叶	蒸汽蒸馏	清润、水感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL244	落羽杉	Bald Cypress	Taxodium distichum	Conifer	湿润木针	针叶	蒸汽蒸馏	湿润、沉稳、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL245	池杉	Pond Cypress	Taxodium ascendens	Conifer	清透木针	针叶	蒸汽蒸馏	清透、冷峻、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL246	杉木	Chinese Fir	Cunninghamia lanceolata	Conifer	清苦木香	木材	蒸汽蒸馏	清苦、干燥、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL247	台湾杉	Taiwania	Taiwania cryptomerioides	Conifer	清润木香	木材	蒸汽蒸馏	清润、高山、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL248	柳杉	Japanese Cedar	Cryptomeria japonica	Conifer	清亮木香	木材/针叶	蒸汽蒸馏	清亮、高山、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL249	金松	Japanese Umbrella Pine	Sciadopitys verticillata	Conifer	清润针叶	针叶	蒸汽蒸馏	清润、洁净、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL250	罗汉松	Yew Plum Pine	Podocarpus macrophyllus	Conifer	深沉木香	叶/木	蒸汽蒸馏	深沉、禅意、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL251	竹柏	Nagi Podocarpus	Nageia nagi	Conifer	清润绿叶	叶	蒸汽蒸馏	清润、草本、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL252	陆均松	Dacrydium	Dacrydium pectinatum	Conifer	清冷针叶	针叶	蒸汽蒸馏	清冷、高山、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL253	鸡毛松	Dacrycarpus	Dacrycarpus imbricatus	Conifer	柔和针叶	针叶	蒸汽蒸馏	柔和、冷峻、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL254	贝壳杉	Kauri	Agathis dammara	Conifer	树脂木香	树脂/木	蒸汽蒸馏	树脂、暖润、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL255	南洋杉	Norfolk Pine	Araucaria heterophylla	Conifer	清透针叶	针叶	蒸汽蒸馏	清透、冷峻、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL256	巴拉那松	Parana Pine	Araucaria angustifolia	Conifer	温润木针	针叶	蒸汽蒸馏	温润、厚实、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL257	智利南洋杉	Monkey Puzzle	Araucaria araucana	Conifer	古老冷冽	针叶	蒸汽蒸馏	古老、冷冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL258	银杏	Ginkgo	Ginkgo biloba	Conifer	清苦古木	叶	溶剂/CO2	清苦、含蓄、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL259	苏铁	Sago Palm	Cycas revoluta	Conifer	厚重木叶	叶	溶剂/CO2	厚重、土感、安定	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL260	买麻藤	Gnetum	Gnetum montanum	Conifer	清苦藤木	枝叶	蒸汽蒸馏	清苦、草本、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL261	麻黄	Ephedra	Ephedra sinica	Conifer	辛凉草木	草质茎	蒸汽蒸馏	辛凉、清冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL262	木贼麻黄	Equisetina Ephedra	Ephedra equisetina	Conifer	清冽草木	草质茎	蒸汽蒸馏	清冽、通透、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL263	中麻黄	Intermediate Ephedra	Ephedra intermedia	Conifer	辛凉草木	草质茎	蒸汽蒸馏	辛凉、清醒、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL264	膜果麻黄	Przewalskii Ephedra	Ephedra przewalskii	Conifer	干燥辛凉	草质茎	蒸汽蒸馏	干燥、辛凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL265	丽江麻黄	Lijiang Ephedra	Ephedra likiangensis	Conifer	高山辛凉	草质茎	蒸汽蒸馏	高山、辛凉、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL266	草麻黄	Sinica Ephedra	Ephedra sinica var. pumila	Conifer	清苦辛凉	草质茎	蒸汽蒸馏	清苦、辛凉、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL267	矮麻黄	Dwarf Ephedra	Ephedra minuta	Conifer	冷冽辛凉	草质茎	蒸汽蒸馏	冷冽、通透、高山	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL268	单子麻黄	Monosperma Ephedra	Ephedra monosperma	Conifer	清透辛凉	草质茎	蒸汽蒸馏	清透、辛凉、草本	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL269	藏麻黄	Tibetan Ephedra	Ephedra saxatilis	Conifer	高原冷冽	草质茎	蒸汽蒸馏	高原、冷冽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL270	拟地海椒麻黄	Gerardiana Ephedra	Ephedra gerardiana	Conifer	高山冷冽	草质茎	蒸汽蒸馏	高山、冷冽、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	针叶类通常清爽提神，外用仍要注意浓度，婴幼儿与癫痫人群避免高浓度吸入。；刺激性；高血压慎用	适合作为 Conifer 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL271	橡苔	Oakmoss	Evernia prunastri	Moss	湿润地衣	地衣	溶剂/CO2	湿润、泥土、复古	真正薰衣草、檀香、雪松、茶树、尤加利	地衣类常有独特的森林土质感，外用需确认是否易敏感。；致敏风险	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL272	树苔	Treemoss	Pseudevernia furfuracea	Moss	干燥地衣	地衣	溶剂/CO2	干燥、烟感、深沉	甜橙、乳香、佛手柑、天竺葵、薄荷	地衣类常有独特的森林土质感，外用需确认是否易敏感。；致敏风险	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL273	松萝	Usnea	Usnea barbata	Moss	冷冽地衣	地衣	溶剂/CO2	冷冽、高山、清苦	真正薰衣草、檀香、雪松、茶树、尤加利	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL274	石蕊	Reindeer Lichen	Cladonia rangiferina	Moss	苔原干香	地衣	溶剂/CO2	苔原、干香、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL275	地衣苔	Iceland Moss	Cetraria islandica	Moss	清苦地衣	地衣	溶剂/CO2	清苦、冷峻、安定	真正薰衣草、檀香、雪松、茶树、尤加利	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL276	岩衣	Rock Lichen	Umbilicaria esculenta	Moss	深岩干香	地衣	溶剂/CO2	深岩、干香、安定	甜橙、乳香、佛手柑、天竺葵、薄荷	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL277	梅衣	Parmelia	Parmelia sulcata	Moss	湿润地衣	地衣	溶剂/CO2	湿润、森林、安定	真正薰衣草、檀香、雪松、茶树、尤加利	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL278	黄粉衣	Chrysothrix	Chrysothrix chlorina	Moss	干暖地衣	地衣	溶剂/CO2	干暖、粉感、复古	甜橙、乳香、佛手柑、天竺葵、薄荷	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL279	文字苔	Graphis	Graphis scripta	Moss	清苦树皮	地衣	溶剂/CO2	清苦、古木、安定	真正薰衣草、檀香、雪松、茶树、尤加利	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL280	蜈蚣苔	Physcia	Physcia stellaris	Moss	干燥地衣	地衣	溶剂/CO2	干燥、草本、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	地衣类常有独特的森林土质感，外用需确认是否易敏感。	适合作为 Moss 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL281	黑莓	Blackberry	Rubus fruticosus	Berry	甜酸浆果	果实	溶剂/CO2	甜酸、多汁、饱满	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL282	覆盆子	Raspberry	Rubus idaeus	Berry	清甜浆果	果实	溶剂/CO2	清甜、水润、轻快	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL283	蓝莓	Blueberry	Vaccinium corymbosum	Berry	深甜浆果	果实	溶剂/CO2	深甜、圆润、饱满	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL284	越橘	Lingonberry	Vaccinium vitis-idaea	Berry	酸爽浆果	果实	溶剂/CO2	酸爽、清冽、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL285	蔓越莓	Cranberry	Vaccinium macrocarpon	Berry	鲜酸浆果	果实	溶剂/CO2	鲜酸、清脆、明亮	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL286	黑加仑	Blackcurrant	Ribes nigrum	Berry	浓郁浆果	芽/果实	溶剂/CO2	浓郁、绿意、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL287	红加仑	Redcurrant	Ribes rubrum	Berry	明快浆果	果实	溶剂/CO2	明快、酸甜、清爽	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL288	接骨木莓	Elderberry	Sambucus nigra	Berry	深沉浆果	果实	溶剂/CO2	深沉、草本、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL289	沙棘	Sea Buckthorn	Hippophae rhamnoides	Berry	浓润浆果	果实/籽	CO2	浓润、酸甜、温暖	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL290	醋栗	Gooseberry	Ribes uva-crispa	Berry	清脆浆果	果实	溶剂/CO2	清脆、酸爽、轻快	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL291	桑葚	Mulberry	Morus alba	Berry	甜润浆果	果实	溶剂/CO2	甜润、温和、饱满	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL292	枸杞	Goji Berry	Lycium barbarum	Berry	温润果香	果实	溶剂/CO2	温润、甘甜、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL293	山楂	Hawthorn	Crataegus pinnatifida	Berry	酸甜果香	果实	溶剂/CO2	酸甜、清爽、通透	真正薰衣草、檀香、雪松、茶树、尤加利	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL294	野樱莓	Aronia	Aronia melanocarpa	Berry	深沉酸涩	果实	溶剂/CO2	深沉、酸涩、厚重	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL295	树莓叶	Raspberry Leaf	Rubus idaeus	Leaf	清苦绿叶	叶	蒸汽蒸馏	清苦、草本、通透	真正薰衣草、檀香、雪松、茶树、尤加利	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL296	黑莓叶	Blackberry Leaf	Rubus fruticosus	Leaf	草本绿叶	叶	蒸汽蒸馏	草本、清新、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL297	草莓叶	Wild Strawberry Leaf	Fragaria vesca	Leaf	清润绿叶	叶	蒸汽蒸馏	清润、草本、柔和	真正薰衣草、檀香、雪松、茶树、尤加利	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL298	醋栗叶	Blackcurrant Leaf	Ribes nigrum	Leaf	绿意青芽	芽/叶	溶剂/CO2	绿意、酸甜、通透	甜橙、乳香、佛手柑、天竺葵、薄荷	叶类通常清新易闻，外用前先做低剂量测试更稳妥。	适合作为 Leaf 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL299	接骨木花	Elderflower	Sambucus nigra	Floral	清甜白花	花朵	溶剂/CO2	清甜、蜜润、通透	真正薰衣草、檀香、雪松、茶树、尤加利	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL300	山茱萸	Cornelian Cherry	Cornus mas	Berry	酸润果香	果实	溶剂/CO2	酸润、温和、饱满	甜橙、乳香、佛手柑、天竺葵、薄荷	浆果类通常干净透亮，部分品种外用仍需低剂量测试。	适合作为 Berry 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。

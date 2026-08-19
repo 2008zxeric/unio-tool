@@ -1,0 +1,51 @@
+oil_id	name_zh	name_en	botanical_name	family	aroma_family	plant_part	extraction	tags	blend_focus	safety_flags	notes
+OIL001	柠檬	Lemon	Citrus limon	Citrus	明亮柑橘	果皮	冷压	明亮、清爽、干净、元系列	甜橙、薰衣草、乳香、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-066｜¥98/5ml｜产地意大利
+OIL002	甜橙	Sweet Orange	Citrus sinensis	Citrus	甜美柑橘	果皮	冷压	甜美、明亮、亲和、元系列	柠檬、肉桂叶、乳香、薰衣草、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-064｜¥158/5ml｜产地意大利｜元系列SKU Y-S-065｜¥158/5ml｜产地墨西哥
+OIL003	佛手柑	Bergamot	Citrus bergamia	Citrus	优雅柑橘	果皮	冷压	优雅、清新、柔和、元系列	薰衣草、雪松、甜橙、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-067｜¥158/5ml｜产地意大利
+OIL004	葡萄柚	Grapefruit	Citrus × paradisi	Citrus	轻快柑橘	果皮	冷压	轻快、清爽、通透、元系列	薄荷、甜橙、乳香、薰衣草、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-068｜¥138/5ml｜产地南非｜元系列SKU Y-B-005｜¥108/100ml｜产地美国
+OIL005	青柠	Lime	Citrus aurantiifolia	Citrus	锐亮柑橘	果皮	冷压	锐亮、清脆、提神	薄荷、薰衣草、香茅、乳香、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL006	柑橘	Mandarin	Citrus reticulata	Citrus	圆润柑橘	果皮	冷压	圆润、柔和、亲和、元系列	甜橙、罗马洋甘菊、乳香、薰衣草、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-B-004｜¥138/10ml｜产地中国
+OIL007	柚子	Yuzu	Citrus junos	Citrus	清透柑橘	果皮	冷压	清透、明快、高级	雪松、甜橙、薰衣草、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL008	橙花	Neroli	Citrus aurantium	Citrus	清雅花柑	花朵	蒸汽蒸馏	清雅、柔和、明亮	佛手柑、乳香、檀香、薰衣草、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL009	苦橙叶	Petitgrain	Citrus aurantium	Citrus	绿意柑橘	叶/嫩枝	蒸汽蒸馏	绿意、清新、平衡	薰衣草、雪松、橙花、乳香	常见果皮类品种要留意光毒性，外用后尽量避免日晒。	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL010	苦橙皮	Bitter Orange Peel	Citrus aurantium	Citrus	苦甜柑橘	果皮	冷压	苦甜、利落、有层次、元系列	薰衣草、乳香、甜橙、雪松	常见果皮类品种要留意光毒性，外用后尽量避免日晒。；光毒性	适合作为 Citrus 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-H-098｜¥148/10ml｜产地意大利｜元系列SKU Y-H-099｜¥158/10ml｜产地巴拉圭｜元系列SKU Y-S-063｜¥158/5ml｜产地巴拉圭
+OIL011	真正薰衣草	True Lavender	Lavandula angustifolia	Floral	柔和花草	花穗	蒸汽蒸馏	柔和、安定、干净、元系列	甜橙、乳香、雪松、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-047｜¥158/5ml｜产地法国普罗旺斯｜元系列SKU Y-M-054｜¥158/5ml｜产地法国
+OIL012	穗花薰衣草	Spike Lavender	Lavandula latifolia	Floral	更清亮的薰衣草	花穗	蒸汽蒸馏	清亮、草本、呼吸感	乳香、茶树、真正薰衣草、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL013	醒目薰衣草	Lavandin	Lavandula × intermedia	Floral	干净花草	花穗	蒸汽蒸馏	干净、高扬、经典	真正薰衣草、雪松、甜橙、佛手柑、檀香、乳香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL014	天竺葵	Geranium	Pelargonium graveolens	Floral	绿玫瑰感	叶/花	蒸汽蒸馏	绿意、圆润、平衡、元系列	玫瑰、薰衣草、佛手柑、檀香、乳香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-044｜¥188/5ml｜产地埃及｜元系列SKU Y-M-046｜¥188/5ml｜产地埃及｜元系列SKU Y-H-073｜¥158/10ml｜产地中国
+OIL015	玫瑰	Rose Otto	Rosa damascena	Floral	奢华花香	花瓣	蒸汽蒸馏	奢华、细腻、包裹感	檀香、橙花、天竺葵、佛手柑、乳香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL016	依兰依兰	Ylang Ylang	Cananga odorata	Floral	浓郁白花	花朵	蒸汽蒸馏	浓郁、甜润、异域、元系列	佛手柑、檀香、茉莉、乳香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-007｜¥158/5ml｜产地马达加斯加｜元系列SKU Y-J-015｜¥358/5ml｜产地马达加斯加｜元系列SKU Y-J-020｜¥218/5ml｜产地马达加斯加｜元系列SKU Y-J-023｜¥258/5ml｜产地马达加斯加｜元系列SKU Y-H-070｜¥238/10ml｜产地马达加斯加
+OIL017	茉莉	Jasmine	Jasminum grandiflorum	Floral	夜间花香	花朵	溶剂/CO2	深邃、柔滑、迷人、元系列	橙花、檀香、玫瑰、佛手柑、乳香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-013｜¥858/5ml｜产地印度｜元系列SKU Y-H-071｜¥858/5ml｜产地印度
+OIL018	罗马洋甘菊	Roman Chamomile	Chamaemelum nobile	Floral	苹果花草	花朵	蒸汽蒸馏	柔软、苹果感、安抚	薰衣草、橙花、乳香、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。；菊科敏感	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL019	德国洋甘菊	German Chamomile	Matricaria chamomilla	Floral	草药洋甘菊	花朵	蒸汽蒸馏	草本、安抚、深色	罗马洋甘菊、薰衣草、乳香、佛手柑、檀香	花香类往往更适合低剂量、慢慢闻，避免叠加过浓。；菊科敏感	适合作为 Floral 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL020	快乐鼠尾草	Clary Sage	Salvia sclarea	Herbaceous	草本微甜	花穗/叶	蒸汽蒸馏	草本、柔和、放松、元系列	薰衣草、天竺葵、佛手柑、柠檬、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-041｜¥188/5ml｜产地东欧｜元系列SKU Y-M-045｜¥188/5ml｜产地南非
+OIL021	胡椒薄荷	Peppermint	Mentha × piperita	Mint	清凉薄荷	叶	蒸汽蒸馏	清凉、醒脑、利落、元系列	柠檬、薰衣草、尤加利	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。；幼儿慎用	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-004｜¥118/10ml｜产地阿尔巴尼亚
+OIL022	留兰香	Spearmint	Mentha spicata	Mint	甜薄荷	叶	蒸汽蒸馏	甜润、清新、友好	柠檬、薰衣草、罗马洋甘菊、尤加利	薄荷类对婴幼儿和敏感人群要谨慎，避免过强刺激。	适合作为 Mint 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL023	迷迭香	Rosemary	Salvia rosmarinus	Herbaceous	清透草本	叶/花	蒸汽蒸馏	清透、利落、通畅	柠檬、薄荷、乳香、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕期慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL024	茶树	Tea Tree	Melaleuca alternifolia	Herbaceous	清洁草本	叶	蒸汽蒸馏	清洁、穿透、实用、元系列	薰衣草、柠檬、尤加利、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；局部敏感	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-003｜¥138/10ml｜产地澳大利亚｜元系列SKU Y-M-029｜¥188/5ml｜产地澳洲｜元系列SKU Y-M-053｜¥188/5ml｜产地澳洲
+OIL025	尤加利球型	Eucalyptus globulus	Eucalyptus globulus	Camphoraceous	樟脑清凉	叶	蒸汽蒸馏	清凉、呼吸感、通透、元系列	柠檬、薄荷、乳香、茶树、薰衣草	这类精油通常更强势，幼儿、孕期和敏感皮肤要格外谨慎。；幼儿慎用	适合作为 Camphoraceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-032｜¥88/5ml｜产地澳洲
+OIL026	尤加利辐射	Eucalyptus radiata	Eucalyptus radiata	Camphoraceous	更柔和尤加利	叶	蒸汽蒸馏	柔和、清透、呼吸感、元系列	茶树、柠檬、薰衣草	这类精油通常更强势，幼儿、孕期和敏感皮肤要格外谨慎。	适合作为 Camphoraceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-002｜¥138/10ml｜产地澳大利亚
+OIL027	白千层	Niaouli	Melaleuca quinquenervia	Herbaceous	清亮草木	叶	蒸汽蒸馏	清亮、洁净、穿透	尤加利、茶树、柠檬、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL028	柠檬草	Lemongrass	Cymbopogon citratus	Herbaceous	柠檬草本	叶	蒸汽蒸馏	锋利、明快、洁净	薄荷、天竺葵、薰衣草、柠檬、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL029	香茅	Citronella	Cymbopogon winterianus	Herbaceous	清新驱蚊感	叶	蒸汽蒸馏	清新、外放、空气感、元系列	柠檬草、薰衣草、雪松、柠檬	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-J-005｜¥178/10ml｜产地法国/印度洋
+OIL030	罗勒	Basil	Ocimum basilicum	Herbaceous	绿色香草	叶	蒸汽蒸馏	绿色、活跃、清晰、元系列	柠檬、薄荷、甜橙、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；孕期慎用	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-048｜¥138/100ml｜产地印度/埃及
+OIL031	甜马郁兰	Marjoram	Origanum majorana	Herbaceous	温柔草本	叶/花	蒸汽蒸馏	温柔、放松、包裹	薰衣草、乳香、橙花、柠檬、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL032	百里香	Thyme	Thymus vulgaris	Herbaceous	强烈草本	叶/花	蒸汽蒸馏	强烈、穿透、经典	柠檬、茶树、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL033	牛至	Oregano	Origanum vulgare	Herbaceous	辛辣草本	叶	蒸汽蒸馏	辛辣、外放、强劲	柠檬、甜橙、薰衣草、雪松	草本类里有些品种刺激性更强，外用务必先做低剂量测试。；刺激性	适合作为 Herbaceous 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL034	大西洋雪松	Atlas Cedarwood	Cedrus atlantica	Woody	干燥木质	木材	蒸汽蒸馏	干燥、沉稳、下沉、元系列	佛手柑、乳香、薰衣草、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-T-086｜¥158/5ml｜产地摩洛哥
+OIL035	弗吉尼亚雪松	Virginia Cedarwood	Juniperus virginiana	Woody	干净木质	木材	蒸汽蒸馏	干净、稳重、安定	甜橙、檀香、杜松浆果、佛手柑、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL036	檀香	Sandalwood	Santalum album	Woody	奶油木香	木材	蒸汽蒸馏	奶油感、圆润、安静、元系列	玫瑰、乳香、佛手柑、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-024｜¥688/10ml｜产地印度迈索尔｜元系列SKU Y-T-085｜¥1580/5ml｜产地印度｜元系列SKU Y-T-099｜¥1580/5ml｜产地印度
+OIL037	岩兰草	Vetiver	Chrysopogon zizanioides	Woody	潮湿土木	根	蒸汽蒸馏	深沉、安定、夜色	佛手柑、檀香、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL038	广藿香	Patchouli	Pogostemon cablin	Woody	土质香脂	叶	蒸汽蒸馏	土质、厚实、复古、元系列	甜橙、玫瑰、檀香、佛手柑、乳香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-058｜¥158/5ml｜产地印度尼西亚｜元系列SKU Y-T-083｜¥158/5ml｜产地印尼
+OIL039	乳香	Frankincense	Boswellia carterii	Resin	神圣树脂	树脂	蒸汽蒸馏	安静、澄明、仪式感、元系列	橙花、檀香、没药、雪松	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-B-008｜¥358/5ml｜产地索马里｜元系列SKU Y-B-019｜¥358/5ml｜产地埃塞俄比亚
+OIL040	没药	Myrrh	Commiphora myrrha	Resin	苦香树脂	树脂	蒸汽蒸馏	深色、安稳、古典、元系列	乳香、檀香、玫瑰、橙花、雪松	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-B-002｜¥358/5ml｜产地索马里｜元系列SKU Y-B-014｜¥358/5ml｜产地索马里
+OIL041	古巴香脂	Copaiba	Copaifera officinalis	Resin	柔和树脂	树脂	蒸汽蒸馏	柔和、圆滑、低调	乳香、雪松、薰衣草、檀香、橙花	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL042	埃利米	Elemi	Canarium luzonicum	Resin	柑香树脂	树脂	蒸汽蒸馏	明亮、树脂、提振	乳香、柠檬、雪松、檀香、橙花	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL043	安息香	Benzoin	Styrax benzoin	Resin	香草树脂	树脂	溶剂/CO2	甜润、包裹、安抚、元系列	檀香、香橙、乳香、橙花、雪松	树脂类通常较厚重，建议先从少量扩香开始。	适合作为 Resin 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-E-068｜¥288/10ml｜产地印尼苏门答腊｜元系列SKU Y-B-003｜¥168/100ml｜产地印尼｜元系列SKU Y-B-016｜¥158/5ml｜产地印尼
+OIL044	柏木	Cypress	Cupressus sempervirens	Woody	干净木气	枝叶	蒸汽蒸馏	干净、挺拔、通透、元系列	杜松浆果、雪松、柠檬、佛手柑、乳香、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-025｜¥158/5ml｜产地法国｜元系列SKU Y-T-109｜¥158/5ml｜产地西班牙
+OIL045	杜松浆果	Juniper Berry	Juniperus communis	Woody	清冷浆果	果实	蒸汽蒸馏	清冷、锋利、净化、元系列	柏木、柠檬、薰衣草、佛手柑、乳香、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-S-059｜¥138/100ml｜产地苏格兰
+OIL046	苏格兰松	Pine	Pinus sylvestris	Woody	森林松针	针叶	蒸汽蒸馏	森林感、清爽、外放、元系列	雪松、尤加利、柠檬、佛手柑、乳香、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-M-027｜¥158/100ml｜产地俄罗斯西伯利亚
+OIL047	香脂冷杉	Fir Balsam	Abies balsamea	Woody	节日树脂	针叶	蒸汽蒸馏	节日、清甜、森林感	甜橙、雪松、乳香、佛手柑、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL048	挪威云杉	Spruce	Picea abies	Woody	冷冽木针	针叶	蒸汽蒸馏	冷冽、清透、冬季感	乳香、松树、薰衣草、佛手柑、檀香	木质类通常安全感更强，但依然要按具体品种和剂量来判断。	适合作为 Woody 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。
+OIL049	生姜	Ginger	Zingiber officinale	Spice	温暖姜香	根茎	蒸汽蒸馏	温暖、活力、辛香、元系列	甜橙、乳香、黑胡椒、檀香	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。｜元系列SKU Y-H-077｜¥158/5ml｜产地马达加斯加｜元系列SKU Y-T-078｜¥158/5ml｜产地中国横断山
+OIL050	黑胡椒	Black Pepper	Piper nigrum	Spice	干燥辛香	果实	蒸汽蒸馏	干燥、立体、推动	姜、佛手柑、乳香、甜橙、檀香	辛香类往往更刺激，外用剂量务必保守。	适合作为 Spice 类入门卡；建议后续补充 GC/MS、安全证据与品牌层来源。

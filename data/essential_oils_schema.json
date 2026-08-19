@@ -1,0 +1,142 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UNIOEssentialOilsDatabase",
+  "description": "UNIO Aroma 200+ Core Essential Oils Standardized Database Schema for AI Consultation and Clinical Aromatherapy",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "pinyin",
+    "botany",
+    "tcm",
+    "olfactory",
+    "chemistry",
+    "safety",
+    "efficacy",
+    "application",
+    "blending"
+  ],
+  "properties": {
+    "id": { "type": "string", "description": "Unique identifier slug" },
+    "name": { "type": "string", "description": "Standard Chinese common name" },
+    "pinyin": { "type": "string", "description": "Standard Pinyin with tones" },
+    "botany": {
+      "type": "object",
+      "required": ["latinName", "botanicalFamily", "botanicalGenus", "plantPart", "extractionMethod", "terroirOrigin"],
+      "properties": {
+        "latinName": { "type": "string", "description": "Botanical binomial Latin name" },
+        "botanicalFamily": { "type": "string", "description": "Plant family (e.g. 瑞香科 Thymelaeaceae)" },
+        "botanicalGenus": { "type": "string", "description": "Plant genus (e.g. 沉香属 Aquilaria)" },
+        "chemotype": { "type": "string", "description": "Chemotype (CT)" },
+        "isoStandard": { "type": "string", "description": "ISO 4720 standard" },
+        "synonyms": { "type": "array", "items": { "type": "string" } },
+        "plantPart": { "type": "string", "description": "Distilled plant part" },
+        "extractionMethod": { "type": "string", "description": "Extraction method" },
+        "terroirOrigin": { "type": "string", "description": "Terroir origin" }
+      }
+    },
+    "tcm": {
+      "type": "object",
+      "required": ["element", "subcategory", "tcmMeridian", "tcmNature", "tcmQiDynamic"],
+      "properties": {
+        "element": { "type": "string", "enum": ["木", "火", "土", "金", "水"] },
+        "subcategory": { "type": "string" },
+        "tcmMeridian": { "type": "string", "description": "归经" },
+        "tcmNature": { "type": "string", "description": "性味" },
+        "tcmQiDynamic": { "type": "string", "description": "气机升降" }
+      }
+    },
+    "olfactory": {
+      "type": "object",
+      "required": ["noteType", "scentFamily", "scentKeywords", "firstImpression"],
+      "properties": {
+        "noteType": { "type": "string", "enum": ["top", "middle", "base"] },
+        "scentFamily": { "type": "string" },
+        "scentKeywords": { "type": "array", "items": { "type": "string" } },
+        "firstImpression": { "type": "string" },
+        "deepNote": { "type": "string" },
+        "sensoryAtmosphere": { "type": "string" }
+      }
+    },
+    "chemistry": {
+      "type": "object",
+      "required": ["chemicalFamily", "primaryMolecules"],
+      "properties": {
+        "chemicalFamily": { "type": "string" },
+        "primaryMolecules": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "percentage"],
+            "properties": {
+              "name": { "type": "string" },
+              "percentage": { "type": "string" },
+              "functionalGroup": { "type": "string" },
+              "therapeuticPathway": { "type": "string" }
+            }
+          }
+        },
+        "gcmsNotes": { "type": "string" }
+      }
+    },
+    "safety": {
+      "type": "object",
+      "required": ["safetyLevel", "maxDermalPercentage", "isPhototoxic", "isPregnancySafe", "isPetSafe", "isKidSafe", "generalCautions", "contraindications"],
+      "properties": {
+        "safetyLevel": {
+          "type": "string",
+          "enum": ["Level 1: 极度温和", "Level 2: 标准安全", "Level 3: 需严格稀释", "Level 4: 禁忌限制"]
+        },
+        "maxDermalPercentage": { "type": "number" },
+        "isPhototoxic": { "type": "boolean" },
+        "phototoxicityNote": { "type": "string" },
+        "isPregnancySafe": { "type": "boolean" },
+        "pregnancyNote": { "type": "string" },
+        "isPetSafe": { "type": "boolean" },
+        "petNote": { "type": "string" },
+        "isKidSafe": { "type": "boolean" },
+        "childAgeLimitYears": { "type": "number" },
+        "generalCautions": { "type": "string" },
+        "contraindications": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "efficacy": {
+      "type": "object",
+      "required": ["emotionalBenefit", "physicalBenefit", "targetPersona"],
+      "properties": {
+        "emotionalBenefit": { "type": "string" },
+        "physicalBenefit": { "type": "string" },
+        "targetPersona": { "type": "array", "items": { "type": "string" } },
+        "suggestedScenarios": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "application": {
+      "type": "object",
+      "required": ["diffuserAdvice", "palmInhalationAdvice", "bodyApplicationAdvice", "bathCaution"],
+      "properties": {
+        "diffuserAdvice": { "type": "string" },
+        "palmInhalationAdvice": { "type": "string" },
+        "bodyApplicationAdvice": { "type": "string" },
+        "bathCaution": { "type": "string" },
+        "idealTimesOfDay": { "type": "array", "items": { "type": "string", "enum": ["morning", "daytime", "evening", "night"] } }
+      }
+    },
+    "blending": {
+      "type": "object",
+      "required": ["compatiblePartners", "roleInFormula"],
+      "properties": {
+        "compatiblePartners": { "type": "array", "items": { "type": "string" } },
+        "roleInFormula": { "type": "string" },
+        "synergyNotes": { "type": "string" }
+      }
+    },
+    "culturalLore": {
+      "type": "object",
+      "properties": {
+        "story": { "type": "string" },
+        "synesthesia": { "type": "string" },
+        "perfumerTrivia": { "type": "string" }
+      }
+    }
+  }
+}

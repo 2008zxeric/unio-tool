@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    background-color: #F8F5EE;
+    color: #1C2E20;
+    overscroll-behavior-y: none;
+  }
+
+  h1, h2, h3, h4, h5, .font-serif-sc {
+    font-family: 'Noto Serif SC', 'Songti SC', SimSun, serif;
+    letter-spacing: -0.01em;
+  }
+
+  .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+}
+
+/* ================= Hallmark Artisanal Card & Paper Aesthetic ================= */
+.bg-hallmark-paper {
+  background-color: #FAF7F0;
+  background-image: 
+    radial-gradient(#E8DFC8 0.65px, transparent 0.65px),
+    linear-gradient(180deg, rgba(255,255,255,0.7) 0%, rgba(245,239,228,0.7) 100%);
+  background-size: 20px 20px, 100% 100%;
+}
+
+.hallmark-card {
+  background-color: #FAF8F3;
+  border-radius: 1.5rem;
+  box-shadow: 
+    0 1px 2px rgba(28, 46, 32, 0.04),
+    0 4px 12px rgba(28, 46, 32, 0.03),
+    0 12px 24px -6px rgba(140, 122, 107, 0.06);
+  position: relative;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Hallmark Embossed Gold Foil Inset Frame */
+.hallmark-foil-frame {
+  position: relative;
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  box-shadow: inset 0 0 0 1px rgba(212, 175, 55, 0.15);
+}
+
+.hallmark-foil-frame::before {
+  content: '';
+  position: absolute;
+  inset: 4px;
+  border: 0.5px solid rgba(212, 175, 55, 0.22);
+  border-radius: calc(1.5rem - 4px);
+  pointer-events: none;
+}
+
+/* Hallmark Hot-Stamp Metallic Text */
+.hallmark-gold-emboss {
+  background: linear-gradient(135deg, #8A6D3B 0%, #D4AF37 40%, #B89738 70%, #6E5326 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0.5px 0.5px rgba(255, 255, 255, 0.6);
+}
+
+/* Hallmark Tactile Wax Seal Stamp */
+.hallmark-wax-seal {
+  background: radial-gradient(circle at 35% 35%, #C23838 0%, #941B1B 60%, #661010 100%);
+  color: #FFF6E5;
+  box-shadow: 
+    0 2px 5px rgba(102, 16, 16, 0.35),
+    inset 0 1px 1px rgba(255, 255, 255, 0.4),
+    inset 0 -2px 3px rgba(0, 0, 0, 0.35);
+  border: 1.5px solid #821414;
+  border-radius: 9999px;
+  position: relative;
+  user-select: none;
+}
+
+.hallmark-wax-seal::after {
+  content: '';
+  position: absolute;
+  inset: 3px;
+  border: 1px dashed rgba(255, 246, 229, 0.4);
+  border-radius: 9999px;
+  pointer-events: none;
+}
+
+/* Mobile Safe Bottom Inset */
+.safe-pb {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 5rem);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8CEBB;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B4A68E;
+}
+
+/* Print Styles */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+}
