@@ -29,7 +29,8 @@ export type NavTab =
   | "consultation" // 深度问诊 / 五行面容
   | "prescriptions"// 处方档案 (Keepsake Cards)
   | "atelier"      // 专属工坊打样
-  | "devices";     // 穿戴组件
+  | "devices"      // 穿戴组件
+  | "about";       // ⑥ 关于UNIO
 
 interface HeaderProps {
   activeTab: NavTab;
@@ -56,10 +57,12 @@ export const Header: React.FC<HeaderProps> = ({
     { id: "consultation", label: "一人一方", subLabel: "AI对话·定制", icon: Sparkles, badge: "AI" },
     { id: "daily", label: "今日香气", subLabel: "循时·节气", icon: Sun },
     { id: "botanical", label: "精油百科", subLabel: "五行·百草", icon: Leaf },
-    { id: "prescriptions", label: "处方档案", subLabel: "高定·手帐", icon: BookOpen }
+    { id: "prescriptions", label: "处方档案", subLabel: "高定·手帐", icon: BookOpen },
+    { id: "about", label: "关于 UNIO", subLabel: "品牌·哲学", icon: ShieldCheck }
   ];
 
   const handleTabClick = (tab: NavTab) => {
+    console.log("Tab clicked:", tab);
     setActiveTab(tab);
     setIsMobileMenuOpen(false);
     audioEngine.playDropletSound();

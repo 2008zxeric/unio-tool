@@ -12,6 +12,7 @@ import { BespokeLabView } from "./components/BespokeLabView";
 import { DevicesWidgetView } from "./components/DevicesWidgetView";
 import { SoundscapeModal } from "./components/SoundscapeModal";
 import { BreathworkModal } from "./components/BreathworkModal";
+import { BrandHomeView } from "./components/BrandHomeView";
 import { ScentPrescription, MoodCheckin, BespokeOrder, SingleEssentialOil, BlendIngredient } from "./types";
 import { CURATED_PRESCRIPTIONS, ESSENTIAL_OILS_DATABASE } from "./data/scentDatabase";
 import { audioEngine } from "./utils/audioEngine";
@@ -303,6 +304,11 @@ export function App() {
         {/* 桌面组件 & Watch */}
         {activeTab === "devices" && (
           <DevicesWidgetView currentPrescription={currentPrescription} />
+        )}
+
+        {/* 关于 UNIO */}
+        {activeTab === "about" && (
+          <BrandHomeView />
         )}
       </main>
 
