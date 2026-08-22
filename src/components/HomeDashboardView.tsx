@@ -37,7 +37,7 @@ export const HomeDashboardView: React.FC<HomeDashboardViewProps> = ({
   onOpenSoundscape,
   latestCheckin
 }) => {
-  const currentSolarTerm = SOLAR_TERMS_CALENDAR[13]; // 处暑
+  const currentSolarTerm = SOLAR_TERMS_CALENDAR[13] || { name: "未知节气", element: "未知", aroma: "未知", desc: "未知" }; // 处暑
 
   const handleQuickEmergencyCalm = () => {
     audioEngine.strikeSingingBowl(528);

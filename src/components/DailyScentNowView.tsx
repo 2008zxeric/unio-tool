@@ -124,7 +124,7 @@ export const DailyScentNowView: React.FC<DailyScentNowViewProps> = ({
     }
   };
 
-  const activeSlot = slotData[currentSlot];
+  const activeSlot = slotData[currentSlot] || slotData["morning"];
 
   const filteredSolarTerms = SOLAR_TERMS_DETAILED_CALENDAR.filter(term => {
     if (selectedSeasonFilter === "all") return true;
@@ -293,7 +293,7 @@ export const DailyScentNowView: React.FC<DailyScentNowViewProps> = ({
                         ...activeSlot.prescription.olfactoryPyramid.baseNotes
                       ].map((n, i) => (
                         <span key={i} className="px-2.5 py-1 rounded-xl bg-white text-stone-800 border border-[#E0D7C5] text-xs shadow-2xs font-serif-sc">
-                          {n.name} · {n.ratio}
+                          {n?.name || "未知"} · {n?.ratio}
                         </span>
                       ))}
                     </div>
@@ -343,7 +343,7 @@ export const DailyScentNowView: React.FC<DailyScentNowViewProps> = ({
                   </div>
 
                   <h5 className="font-serif-sc font-bold text-base sm:text-lg text-[#1C2E20]">
-                    {activeSlot.apparatus.name}
+                    {activeSlot.apparatus?.name || "未知器具"}
                   </h5>
                   <p className="text-xs text-stone-600 font-mono">
                     材质工艺：{activeSlot.apparatus.material}
@@ -457,7 +457,7 @@ export const DailyScentNowView: React.FC<DailyScentNowViewProps> = ({
               </div>
 
               <h3 className="font-serif-sc text-2xl sm:text-4xl font-bold text-[#1C2E20]">
-                {selectedSolarTerm.name} · 芳香调和经络笺
+                {selectedSolarTerm?.name || "未知节气"} · 芳香调和经络笺
               </h3>
               <p className="text-xs sm:text-sm text-stone-700 font-light">
                 <strong>三候物候：</strong>{selectedSolarTerm.phenology}
@@ -519,7 +519,7 @@ export const DailyScentNowView: React.FC<DailyScentNowViewProps> = ({
                   </h4>
                   <div className="p-3 bg-[#FAF7F0] rounded-xl border border-[#E5DEC9] space-y-1">
                     <div className="flex items-center justify-between font-serif-sc font-bold text-stone-900">
-                      <span>{selectedSolarTerm.acupointRitual.name}</span>
+                      <span>{selectedSolarTerm.acupointRitual?.name || "未知穴位"}</span>
                       <span className="text-[10px] text-[#8C7A6B] font-normal">{selectedSolarTerm.acupointRitual.location}</span>
                     </div>
                     <p className="text-emerald-900 text-[11px]">

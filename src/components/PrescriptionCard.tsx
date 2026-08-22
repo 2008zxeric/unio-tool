@@ -45,6 +45,8 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
   onGoToBlender,
   onLogMood
 }) => {
+  console.log("Rendering PrescriptionCard with:", prescription);
+  if (!prescription) return <div className="p-4 text-red-500">处方数据缺失 (Prescription is undefined)</div>;
   const [activeTab, setActiveTab] = useState<"pyramid" | "molecules" | "rituals" | "lab_blend">("pyramid");
   const [isGeneratingPoster, setIsGeneratingPoster] = useState(false);
   const [showWalletModal, setShowWalletModal] = useState(false);
@@ -59,6 +61,10 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
 
   // Add drop in simulator
   const handleAddDrop = (noteName: string, maxDrops: number) => {
+    if (!prescription || !prescription.olfactoryPyramid) {
+      console.error("PrescriptionCard: prescription or olfactoryPyramid is undefined!", prescription);
+      return;
+    }
     const current = blendedDrops[noteName] || 0;
     if (current < maxDrops && !isBlendingComplete) {
       setBlendedDrops(prev => ({
@@ -341,13 +347,13 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
                 {prescription.olfactoryPyramid.middleNotes.map((note, i) => (
                   <div key={i} className="bg-white/70 p-3.5 rounded-xl border border-[#E0D7C5] flex items-center justify-between">
                     <div>
-                      <h4 className="font-serif-sc font-bold text-sm text-[#1C2E20]">{note.name}</h4>
-                      <p className="text-[11px] text-stone-500 italic font-mono">{note.latin}</p>
-                      <p className="text-[11px] text-stone-600 mt-1">{note.effect}</p>
+                      <h4 className="font-serif-sc font-bold text-sm text-[#1C2E20]">{note?.name || "未知精油"}</h4>
+                      <p className="text-[11px] text-stone-500 italic font-mono">{note?.latin}</p>
+                      <p className="text-[11px] text-stone-600 mt-1">{note?.effect}</p>
                     </div>
                     <div className="text-right pl-3">
-                      <span className="font-mono text-base font-extrabold text-[#1C2E20] block">{note.drops} 滴</span>
-                      <span className="text-[10px] text-stone-400 font-mono">{note.ratio}</span>
+                      <span className="font-mono text-base font-extrabold text-[#1C2E20] block">{note?.drops || 0} 滴</span>
+                      <span className="text-[10px] text-stone-400 font-mono">{note?.ratio}</span>
                     </div>
                   </div>
                 ))}
@@ -364,13 +370,13 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
                 {prescription.olfactoryPyramid.baseNotes.map((note, i) => (
                   <div key={i} className="bg-white/70 p-3.5 rounded-xl border border-[#E0D7C5] flex items-center justify-between">
                     <div>
-                      <h4 className="font-serif-sc font-bold text-sm text-[#1C2E20]">{note.name}</h4>
-                      <p className="text-[11px] text-stone-500 italic font-mono">{note.latin}</p>
-                      <p className="text-[11px] text-stone-600 mt-1">{note.effect}</p>
+                      <h4 className="font-serif-sc font-bold text-sm text-[#1C2E20]">{note?.name || "未知精油"}</h4>
+                      <p className="text-[11px] text-stone-500 italic font-mono">{note?.latin}</p>
+                      <p className="text-[11px] text-stone-600 mt-1">{note?.effect}</p>
                     </div>
                     <div className="text-right pl-3">
-                      <span className="font-mono text-base font-extrabold text-[#1C2E20] block">{note.drops} 滴</span>
-                      <span className="text-[10px] text-stone-400 font-mono">{note.ratio}</span>
+                      <span className="font-mono text-base font-extrabold text-[#1C2E20] block">{note?.drops || 0} 滴</span>
+                      <span className="text-[10px] text-stone-400 font-mono">{note?.ratio}</span>
                     </div>
                   </div>
                 ))}
@@ -463,13 +469,13 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
                   return (
                     <div key={idx} className="bg-white/80 p-3 rounded-xl border border-[#DDD5C5] flex items-center justify-between">
                       <div>
-                        <span className="font-serif-sc font-bold text-xs text-[#1C2E20] block">{note.name}</span>
+                        <span className="font-serif-sc font-bold text-xs text-[#1C2E20] block">{note?.name || "未知精油"}</span>
                         <span className="text-[10px] text-stone-500 font-mono">
-                          已滴入 {added} / {note.drops} 滴
+                          已滴入 {added} / {note?.drops || 0} 滴
                         </span>
                       </div>
                       <button
-                        onClick={() => handleAddDrop(note.name, note.drops)}
+                        onClick={() => handleAddDrop(note?.name || "unknown", note?.drops || 0)}
                         disabled={isDone || isBlendingComplete}
                         className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
                           isDone
@@ -562,7 +568,7 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
                 {prescription.aromatherapyAdvice.acupoints.map((pt, idx) => (
                   <div key={idx} className="bg-[#FAF8F3] p-3.5 rounded-xl border border-[#E2DAD0] space-y-1">
                     <div className="flex items-center justify-between">
-                      <span className="font-serif-sc font-bold text-xs text-[#A82A2A]">{pt.name}</span>
+                      <span className="font-serif-sc font-bold text-xs text-[#A82A2A]">{pt?.name || "未知穴位"}</span>
                       <span className="text-[10px] px-2 py-0.5 bg-[#EAE5D8] rounded text-[#4A4035]">穴位经皮吸收</span>
                     </div>
                     <p className="text-xs text-stone-700">

@@ -86,7 +86,7 @@ export function enrichSingleEssentialOil(oil: Partial<SingleEssentialOil> & { id
     },
     {
       title: "日常高定调香与气味仪式",
-      desc: `可作为高定配方中的【${oil.noteType === "top" ? "灵动前调" : oil.noteType === "middle" ? "丰满中调" : "醇厚定香后调"}】，与${oil.blendingPartners.slice(0, 2).join("、")}形成完美共鸣。`
+      desc: `可作为高定配方中的【${oil?.noteType === "top" ? "灵动前调" : oil?.noteType === "middle" ? "丰满中调" : "醇厚定香后调"}】，与${oil.blendingPartners.slice(0, 2).join("、")}形成完美共鸣。`
     }
   ];
 
@@ -98,9 +98,9 @@ export function enrichSingleEssentialOil(oil: Partial<SingleEssentialOil> & { id
   };
 
   const timeOfDay = oil.timeOfDay || (
-    oil.noteType === "top"
+    oil?.noteType === "top"
       ? (["morning", "daytime"] as const)
-      : oil.noteType === "base"
+      : oil?.noteType === "base"
       ? (["evening", "night"] as const)
       : (["daytime", "evening"] as const)
   );
@@ -220,16 +220,16 @@ function deriveScentKeywords(oil: Partial<SingleEssentialOil>): string[] {
   if (scentFamily.includes("茶")) list.push("🍵 空灵禅茶");
   if (scentFamily.includes("辛")) list.push("🔥 温阳暖辛");
 
-  if (oil.noteType === "top") list.push("⚡ 瞬息透亮");
-  if (oil.noteType === "middle") list.push("💫 丰厚饱满");
-  if (oil.noteType === "base") list.push("⏳ 悠远留香");
+  if (oil?.noteType === "top") list.push("⚡ 瞬息透亮");
+  if (oil?.noteType === "middle") list.push("💫 丰厚饱满");
+  if (oil?.noteType === "base") list.push("⏳ 悠远留香");
 
   return list.length > 0 ? list : ["🌿 自然芬芳", "💧 清澈纯净"];
 }
 
 function deriveFirstImpression(oil: Partial<SingleEssentialOil>): string {
-  if (oil.noteType === "top") return "轻盈透亮 · 瞬间唤醒嗅觉感官 · 充满阳光活力";
-  if (oil.noteType === "middle") return "温润圆融 · 核心花草木韵自然舒展 · 层次分明";
+  if (oil?.noteType === "top") return "轻盈透亮 · 瞬间唤醒嗅觉感官 · 充满阳光活力";
+  if (oil?.noteType === "middle") return "温润圆融 · 核心花草木韵自然舒展 · 层次分明";
   return "深邃沉静 · 醇厚底蕴徐徐展开 · 具有极强包裹感与安定感";
 }
 
@@ -253,7 +253,7 @@ function deriveTargetPersona(oil: Partial<SingleEssentialOil>): string[] {
     `喜欢【${oil.scentFamily || "天然香气"}】清雅香调的人士`,
     `日常感到【${oil.element || "五行"}行】气机失衡、希望寻求身心调和的人`,
     `追求高品质天然生活方式与睡前/办公气味仪式感的人`,
-    `调香进阶爱好者，希望寻找优质【${oil.noteType === "top" ? "前调透亮分子" : oil.noteType === "middle" ? "中调主干核心" : "后调持久定香"}】的人`
+    `调香进阶爱好者，希望寻找优质【${oil?.noteType === "top" ? "前调透亮分子" : oil?.noteType === "middle" ? "中调主干核心" : "后调持久定香"}】的人`
   ];
 }
 

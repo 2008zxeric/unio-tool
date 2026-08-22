@@ -48,6 +48,11 @@ export const PrescriptionView: React.FC<PrescriptionViewProps> = ({
   });
 
   const selectedRx = currentPrescription || allItems[0];
+  
+  // Debugging log if data is unexpectedly empty
+  if (!selectedRx && allItems.length === 0) {
+    console.error("PrescriptionView: No prescriptions available and curated prescriptions are empty.");
+  }
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 space-y-8">

@@ -67,11 +67,14 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
   const [blendSub, setBlendSub] = useState<string>("冷杉与白茶 · 灵台清明与深度定神");
 
   // Selected ingredients in the blend
-  const [localIngredients, setLocalIngredients] = useState<BlendIngredient[]>([
-    { oilId: "oil_fir", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_fir")!, drops: 2 },
-    { oilId: "oil_white_tea", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_white_tea")!, drops: 2 },
-    { oilId: "oil_sandalwood", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_sandalwood")!, drops: 2 }
-  ]);
+  const [localIngredients, setLocalIngredients] = useState<BlendIngredient[]>(() => {
+    const defaultIds = ["oil_fir", "oil_white_tea", "oil_sandalwood"];
+    const initialOils = defaultIds
+      .map(id => ESSENTIAL_OILS_DATABASE.find(o => o.id === id))
+      .filter(o => o !== undefined) as SingleEssentialOil[];
+    
+    return initialOils.map(o => ({ oilId: o.id, oil: o, drops: 2 }));
+  });
 
   const ingredients = externalIngredients !== undefined ? externalIngredients : localIngredients;
   const setIngredients = (updater: BlendIngredient[] | ((prev: BlendIngredient[]) => BlendIngredient[])) => {
@@ -87,20 +90,21 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
 
   // Dilution math (Standard international aromatherapist standard: 20 drops = 1 ml)
   const theoreticalTotalDrops = Math.max(1, Math.round((volumeMl * 20 * (dilutionRate / 100))));
-  const actualCurrentDrops = ingredients.reduce((acc, curr) => acc + curr.drops, 0);
-
+  
   // Note breakdown
-  const topDrops = ingredients.filter(i => i.oil.noteType === "top").reduce((a, b) => a + b.drops, 0);
-  const midDrops = ingredients.filter(i => i.oil.noteType === "middle").reduce((a, b) => a + b.drops, 0);
-  const baseDrops = ingredients.filter(i => i.oil.noteType === "base").reduce((a, b) => a + b.drops, 0);
-
+  console.log("Ingredients:", ingredients);
+  const safeIngredients = useMemo(() => ingredients.filter(i => i.oil), [ingredients]);
+  const actualCurrentDrops = useMemo(() => safeIngredients.reduce((acc, curr) => acc + curr.drops, 0), [safeIngredients]);
+  const topDrops = safeIngredients.filter(i => i.oil?.noteType === "top").reduce((a, b) => a + b.drops, 0);
+  const midDrops = safeIngredients.filter(i => i.oil?.noteType === "middle").reduce((a, b) => a + b.drops, 0);
+  const baseDrops = safeIngredients.filter(i => i.oil?.noteType === "base").reduce((a, b) => a + b.drops, 0);
   const topPercent = actualCurrentDrops > 0 ? Math.round((topDrops / actualCurrentDrops) * 100) : 0;
   const midPercent = actualCurrentDrops > 0 ? Math.round((midDrops / actualCurrentDrops) * 100) : 0;
   const basePercent = actualCurrentDrops > 0 ? Math.round((baseDrops / actualCurrentDrops) * 100) : 0;
 
   // Synergy calculation algorithm based on note ratio + chemical compatibility
   const synergyScore = useMemo(() => {
-    if (ingredients.length === 0) return 0;
+    if (safeIngredients.length === 0) return 0;
     let score = 75;
     // Reward balanced pyramid: Top (20-35%), Mid (35-55%), Base (15-35%)
     if (topPercent >= 20 && topPercent <= 35) score += 8;
@@ -108,12 +112,12 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
     if (basePercent >= 15 && basePercent <= 35) score += 7;
 
     // Check chemical family diversity
-    const chemicalFamilies = new Set(ingredients.map(i => i.oil.chemicalFamily));
+    const chemicalFamilies = new Set(safeIngredients.map(i => i.oil.chemicalFamily));
     score += Math.min(chemicalFamilies.size * 2, 6);
 
     // Bound to 60-99
     return Math.min(99, Math.max(60, score));
-  }, [ingredients, topPercent, midPercent, basePercent]);
+  }, [safeIngredients, topPercent, midPercent, basePercent]);
 
   // Safety warnings
   const safetyWarnings = useMemo(() => {
@@ -124,7 +128,7 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
       warnings.push(`当前稀释度为 ${actualPercent.toFixed(1)}%，超过常规涂抹油安全界限 (5%)，建议稀释后使用。`);
     }
 
-    ingredients.forEach(item => {
+    safeIngredients.forEach(item => {
       const singleOilPercent = (item.drops / (volumeMl * 20)) * 100;
       if (singleOilPercent > item.oil.maxDermalPercent) {
         warnings.push(`【${item.oil.name}】浓度 (${singleOilPercent.toFixed(1)}%) 超过 IFRA 建议最高涂抹安全限值 (${item.oil.maxDermalPercent}%)。`);
@@ -138,7 +142,7 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
     });
 
     return warnings;
-  }, [ingredients, actualCurrentDrops, volumeMl, selectedCarrier]);
+  }, [safeIngredients, actualCurrentDrops, volumeMl, selectedCarrier]);
 
   // Add Oil to Blend
   const handleAddOil = () => {
@@ -201,37 +205,37 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
 
   // Save current blend as Scent Prescription
   const handleSaveAsPrescription = () => {
-    const topNotes = ingredients
-      .filter(i => i.oil.noteType === "top")
+    const topNotes = safeIngredients
+      .filter(i => i.oil?.noteType === "top")
       .map(i => ({
-        name: i.oil.name,
-        latin: i.oil.latin,
+        name: i.oil?.name,
+        latin: i.oil?.latin,
         drops: i.drops,
         ratio: `${Math.round((i.drops / actualCurrentDrops) * 100)}%`,
-        effect: i.oil.emotionalBenefit,
-        element: i.oil.element
+        effect: i.oil?.emotionalBenefit,
+        element: i.oil?.element
       }));
 
-    const middleNotes = ingredients
-      .filter(i => i.oil.noteType === "middle")
+    const middleNotes = safeIngredients
+      .filter(i => i.oil?.noteType === "middle")
       .map(i => ({
-        name: i.oil.name,
-        latin: i.oil.latin,
+        name: i.oil?.name,
+        latin: i.oil?.latin,
         drops: i.drops,
         ratio: `${Math.round((i.drops / actualCurrentDrops) * 100)}%`,
-        effect: i.oil.emotionalBenefit,
-        element: i.oil.element
+        effect: i.oil?.emotionalBenefit,
+        element: i.oil?.element
       }));
 
-    const baseNotes = ingredients
-      .filter(i => i.oil.noteType === "base")
+    const baseNotes = safeIngredients
+      .filter(i => i.oil?.noteType === "base")
       .map(i => ({
-        name: i.oil.name,
-        latin: i.oil.latin,
+        name: i.oil?.name,
+        latin: i.oil?.latin,
         drops: i.drops,
         ratio: `${Math.round((i.drops / actualCurrentDrops) * 100)}%`,
-        effect: i.oil.emotionalBenefit,
-        element: i.oil.element
+        effect: i.oil?.emotionalBenefit,
+        element: i.oil?.element
       }));
 
     const newRx: ScentPrescription = {
@@ -449,13 +453,13 @@ export const OilBlenderView: React.FC<OilBlenderViewProps> = ({
                   >
                     <div className="flex items-center gap-3">
                       <span className={`w-6 h-6 rounded-full flex items-center justify-center font-serif-sc font-bold text-[10px] ${
-                        item.oil.noteType === "top"
+                        item.oil?.noteType === "top"
                           ? "bg-amber-100 text-amber-900 border border-amber-300"
-                          : item.oil.noteType === "middle"
+                          : item.oil?.noteType === "middle"
                           ? "bg-emerald-100 text-emerald-900 border border-emerald-300"
                           : "bg-stone-200 text-stone-800 border border-stone-400"
                       }`}>
-                        {item.oil.noteType === "top" ? "前" : item.oil.noteType === "middle" ? "中" : "后"}
+                        {item.oil?.noteType === "top" ? "前" : item.oil?.noteType === "middle" ? "中" : "后"}
                       </span>
                       <div>
                         <div className="flex items-center gap-2">

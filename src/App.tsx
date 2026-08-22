@@ -43,11 +43,13 @@ export function App() {
         console.error(e);
       }
     }
-    return [
-      { oilId: "oil_fir", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_fir")!, drops: 2 },
-      { oilId: "oil_white_tea", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_white_tea")!, drops: 2 },
-      { oilId: "oil_sandalwood", oil: ESSENTIAL_OILS_DATABASE.find(o => o.id === "oil_sandalwood")!, drops: 2 }
-    ];
+    const defaultIds = ["oil_fir", "oil_white_tea", "oil_sandalwood"];
+    return defaultIds
+      .map(id => {
+        const oil = ESSENTIAL_OILS_DATABASE.find(o => o.id === id);
+        return oil ? { oilId: id, oil, drops: 2 } : null;
+      })
+      .filter((item): item is BlendIngredient => item !== null);
   });
 
   const [orders, setOrders] = useState<BespokeOrder[]>(() => {

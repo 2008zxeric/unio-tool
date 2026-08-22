@@ -49,14 +49,13 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenWatchModal
 }) => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const currentSolarTerm = SOLAR_TERMS_CALENDAR[13]; // 处暑
+  const currentSolarTerm = SOLAR_TERMS_CALENDAR[13] || { name: "未知节气", element: "未知", aroma: "未知", desc: "未知" }; // 处暑
 
   // 5 Core Mobile Hallmark Card Entries
   const coreTabs: { id: NavTab; label: string; subLabel: string; icon: any; badge?: string }[] = [
     { id: "consultation", label: "一人一方", subLabel: "AI对话·定制", icon: Sparkles, badge: "AI" },
     { id: "daily", label: "今日香气", subLabel: "循时·节气", icon: Sun },
     { id: "botanical", label: "精油百科", subLabel: "五行·百草", icon: Leaf },
-    { id: "blender", label: "我的配方", subLabel: "沙箱·滴数", icon: Sliders },
     { id: "prescriptions", label: "处方档案", subLabel: "高定·手帐", icon: BookOpen }
   ];
 

@@ -27,8 +27,8 @@ export function transformToStandardRecord(oil: any): EssentialOilRecord {
     "潜阳封藏 · 纳气归肾"
   );
 
-  const defaultRole = oil.noteType === "base" ? "君 (King/Chief)" :
-                      oil.noteType === "middle" ? "臣 (Minister/Associate)" : "佐/使 (Adjuvant/Messenger)";
+  const defaultRole = oil?.noteType === "base" ? "君 (King/Chief)" :
+                      oil?.noteType === "middle" ? "臣 (Minister/Associate)" : "佐/使 (Adjuvant/Messenger)";
 
   return {
     id: oil.id,
@@ -178,7 +178,7 @@ export function queryEssentialOils(criteria: {
     list = list.filter(o => o.tcm.element === criteria.element);
   }
   if (criteria.noteType) {
-    list = list.filter(o => o.olfactory.noteType === criteria.noteType);
+    list = list.filter(o => o.olfactory?.noteType === criteria.noteType);
   }
   if (criteria.pregnancySafeOnly) {
     list = list.filter(o => o.safety.isPregnancySafe);

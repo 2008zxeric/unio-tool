@@ -217,7 +217,7 @@ export const BotanicalEncyclopediaView: React.FC<BotanicalEncyclopediaViewProps>
       if (selectedElement !== "all" && oil.element !== selectedElement) return false;
       if (selectedSubcategory !== "all" && oil.subcategory !== selectedSubcategory) return false;
       if (selectedScentFamily !== "all" && oil.scentFamily !== selectedScentFamily) return false;
-      if (selectedNote !== "all" && oil.noteType !== selectedNote) return false;
+      if (selectedNote !== "all" && oil?.noteType !== selectedNote) return false;
 
       if (selectedSafetyTag === "pregnancy" && !oil.isPregnancySafe) return false;
       if (selectedSafetyTag === "pet" && !oil.isPetSafe) return false;
@@ -674,7 +674,10 @@ export const BotanicalEncyclopediaView: React.FC<BotanicalEncyclopediaViewProps>
                   oil={oil}
                   variant="preview"
                   activeDisplayLayer={cardDisplayLayer}
-                  onOpenDetail={setSelectedOilDetail}
+                  onOpenDetail={(oil) => {
+                    console.log("Botanical card clicked for:", oil.name);
+                    setSelectedOilDetail(oil);
+                  }}
                   onAddToCurrentBlend={handleAddToBlendWithToast}
                   onSelectForBlender={onSelectOilForBlender}
                 />
@@ -730,16 +733,18 @@ export const BotanicalEncyclopediaView: React.FC<BotanicalEncyclopediaViewProps>
 
       {/* 5. Detailed Knowledge Modal */}
       {selectedOilDetail && (
-        <OilKnowledgeCard
-          oil={selectedOilDetail}
-          variant="expanded"
-          isModal={true}
-          activeDisplayLayer={cardDisplayLayer}
-          onToggleDisplayLayer={setCardDisplayLayer}
-          onCloseModal={() => setSelectedOilDetail(null)}
-          onAddToCurrentBlend={handleAddToBlendWithToast}
-          onSelectForBlender={onSelectOilForBlender}
-        />
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-xs">
+          <OilKnowledgeCard
+            oil={selectedOilDetail}
+            variant="expanded"
+            isModal={true}
+            activeDisplayLayer={cardDisplayLayer}
+            onToggleDisplayLayer={setCardDisplayLayer}
+            onCloseModal={() => setSelectedOilDetail(null)}
+            onAddToCurrentBlend={handleAddToBlendWithToast}
+            onSelectForBlender={onSelectOilForBlender}
+          />
+        </div>
       )}
     </div>
   );

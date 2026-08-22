@@ -166,8 +166,11 @@ export const OilKnowledgeCard: React.FC<OilKnowledgeCardProps> = ({
   if (variant === "preview") {
     return (
       <div
-        onClick={() => {
-          if (onOpenDetail) onOpenDetail(oil);
+        onClick={(e) => {
+          e.stopPropagation();
+          if (onOpenDetail) {
+            onOpenDetail(oil);
+          }
           audioEngine.playDropletSound();
         }}
         className="bg-white/95 p-4 sm:p-5 rounded-3xl border border-[#E0D7C5] shadow-xs hover:shadow-md hover:border-[#1C2E20]/50 transition-all cursor-pointer group flex flex-col justify-between relative overflow-hidden hallmark-paper hallmark-foil-frame"
@@ -192,7 +195,7 @@ export const OilKnowledgeCard: React.FC<OilKnowledgeCardProps> = ({
                 </span>
               )}
               <span className="text-[10px] px-1.5 py-0.5 rounded bg-stone-100 text-stone-600 font-mono">
-                {oil.noteType === "top" ? "前调" : oil.noteType === "middle" ? "中调" : "后调"}
+                {oil?.noteType === "top" ? "前调" : oil?.noteType === "middle" ? "中调" : "后调"}
               </span>
             </div>
           </div>
@@ -233,7 +236,7 @@ export const OilKnowledgeCard: React.FC<OilKnowledgeCardProps> = ({
             /* 🔬 Pro Data Layer (GC-MS & Chemistry Focus) */
             <div className="space-y-1 bg-[#FAF8F3] p-2 rounded-xl border border-[#EAE3D5] text-[11px]">
               <span className="text-stone-500 block font-medium font-serif-sc">
-                GC-MS 特征分子 ({oil.chemicalFamily.split("(")[0]}):
+                GC-MS 特征分子 ({oil.chemicalFamily?.split("(")[0]}):
               </span>
               <div className="flex flex-wrap gap-1">
                 {oil.primaryMolecules.slice(0, 3).map((m, mi) => (
@@ -304,7 +307,7 @@ export const OilKnowledgeCard: React.FC<OilKnowledgeCardProps> = ({
   // VIEW 2: FULL EXPANDED / MODAL 12-QUESTIONS DEEP-DIVE (Hallmark Master Card)
   // =========================================================================
   return (
-    <div className={`hallmark-paper hallmark-foil-frame space-y-5 ${isModal ? "p-1 sm:p-2" : "p-5 sm:p-7 rounded-3xl bg-[#FAF8F3] border border-[#D8D0BE]"}`}>
+    <div className={`hallmark-paper hallmark-foil-frame space-y-5 ${isModal ? "p-1 sm:p-2 max-h-[85vh] overflow-y-auto" : "p-5 sm:p-7 rounded-3xl bg-[#FAF8F3] border border-[#D8D0BE]"}`}>
       {/* Header Banner */}
       <div className="border-b border-[#E0D7C5] pb-4 space-y-2 relative">
         {isModal && onCloseModal && (
@@ -322,7 +325,7 @@ export const OilKnowledgeCard: React.FC<OilKnowledgeCardProps> = ({
             {oil.element}行 · {oil.subcategory || oil.scentFamily}
           </span>
           <span className="text-xs px-2 py-0.5 rounded-full bg-[#EAE5D9] text-[#4A4035] font-mono">
-            {oil.noteType === "top" ? "前调" : oil.noteType === "middle" ? "中调" : "后调"}
+            {oil?.noteType === "top" ? "前调" : oil?.noteType === "middle" ? "中调" : "后调"}
           </span>
           {oil.isoStandard && (
             <span className="text-[10px] px-2 py-0.5 rounded-full bg-stone-200 text-stone-700 font-mono">
