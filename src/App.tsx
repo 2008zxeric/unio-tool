@@ -18,7 +18,7 @@ import { CURATED_PRESCRIPTIONS, ESSENTIAL_OILS_DATABASE } from "./data/scentData
 import { audioEngine } from "./utils/audioEngine";
 
 export function App() {
-  const [activeTab, setActiveTab] = useState<NavTab>("consultation");
+  const [activeTab, setActiveTab] = useState<NavTab>("about");
   const [prescriptions, setPrescriptions] = useState<ScentPrescription[]>(() => {
     const saved = localStorage.getItem("unio_prescriptions");
     if (saved) {
@@ -182,7 +182,6 @@ export function App() {
 
       {/* Main View Router - 5 Core Pillars + Sub Views */}
       <main className="flex-1 w-full pb-20 md:pb-12">
-        {/* ① 今日香气 */}
         {activeTab === "daily" && (
           <DailyScentNowView
             onStartBreathwork={handleStartBreathwork}

@@ -372,11 +372,20 @@ export const ConsultationView: React.FC<ConsultationViewProps> = ({
         })
       });
 
+      if (res.status === 503) {
+        throw new Error("AI 调香宗师当前正在处理大量请求，请稍候片刻再尝试生成处方。");
+      }
+
+      if (!res.ok) {
+        throw new Error(`生成失败 (代码: ${res.status})，请重试。`);
+      }
+
       const newRx: ScentPrescription = await res.json();
       audioEngine.strikeSingingBowl(528);
       onPrescriptionGenerated(newRx);
     } catch (error) {
       console.error("Prescription generation error:", error);
+      alert(error instanceof Error ? error.message : "生成处方时发生未知错误，请稍后再试。");
     } finally {
       setIsLoading(false);
     }

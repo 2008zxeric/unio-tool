@@ -27,45 +27,45 @@ export const BrandHomeView: React.FC = () => {
       <article className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-8">
         
         {/* Section 1: 品牌起源 - Full Width */}
-        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-8 md:p-12">
-          <header className="grid md:grid-cols-2 gap-12 items-center">
+        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-10 md:p-16">
+          <header className="grid md:grid-cols-2 gap-16 items-center">
             <div className="space-y-6">
-              <h1 className="text-6xl md:text-7xl font-serif text-[#1C2E20]">UNIO <span className="font-light text-[#C5A880]">·</span> 元香</h1>
-              <p className="text-2xl font-serif italic text-[#4A5D4E]">从极境撷取芳香，因世界元于一息。</p>
+              <h1 className="text-5xl md:text-7xl font-serif text-[#1C2E20] tracking-tight">UNIO <span className="font-light text-[#C5A880]">·</span> 元香</h1>
+              <p className="text-xl md:text-2xl font-serif italic text-[#4A5D4E] leading-relaxed">从极境撷取芳香，因世界元于一息。</p>
             </div>
-            <div className="text-[#57534E] leading-relaxed border-l border-[#C5A880] pl-8">
-              <h2 className="text-xl font-serif mb-4">品牌起源</h2>
-              <p>元香 UNIO 起始于对纯净品质的执着。二十多年间，团队深耕植物观察与芳疗专业，将“极境寻香”与“AI 高定”融合，提供从植物原息到日常呼吸的完整香气照护。</p>
+            <div className="text-[#57534E] leading-relaxed border-l border-[#C5A880]/50 pl-10">
+              <h2 className="text-xl font-serif mb-6 tracking-wide uppercase text-[#1C2E20]">品牌起源</h2>
+              <p className="text-lg">元香 UNIO 起始于对纯净品质的执着。二十多年间，团队深耕植物观察与芳疗专业，将“极境寻香”与“AI 高定”融合，提供从植物原息到日常呼吸的完整香气照护。</p>
             </div>
           </header>
         </section>
 
         {/* Section 2: 创始档案 - Grid 3 columns */}
-        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-8 md:p-12">
-          <h2 className="text-3xl font-serif mb-12 text-center">创始档案 · Founders</h2>
-          <div className="grid md:grid-cols-3 gap-8">
+        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-10 md:p-16">
+          <h2 className="text-3xl font-serif mb-16 text-center tracking-wide uppercase text-[#1C2E20]">创始档案 · Founders</h2>
+          <div className="grid md:grid-cols-3 gap-10">
             {FOUNDERS.map((f, i) => (
-              <div key={i} className="text-center p-6 bg-white/50 border border-[#E0D7C5]">
-                <div className="w-24 h-24 mx-auto mb-6 bg-[#E0D7C5] rounded-full flex items-center justify-center text-[#FAF8F3] font-serif text-3xl">
+              <div key={i} className="text-center p-8 bg-white/40 border border-[#E0D7C5]/60 hover:border-[#D4AF37]/50 transition-colors duration-500">
+                <div className="w-20 h-20 mx-auto mb-8 bg-[#EFECE3] rounded-full flex items-center justify-center text-[#C5A880] font-serif text-2xl border border-[#D4AF37]/20">
                   {f.name.charAt(0)}
                 </div>
-                <h3 className="font-serif text-xl font-bold mb-2 hallmark-gold-emboss">{f.name}</h3>
-                <span className="text-sm font-normal text-[#C5A880] block mb-4">({f.title})</span>
-                <p className="text-sm text-[#57534E] leading-relaxed">{f.desc}</p>
+                <h3 className="font-serif text-xl font-bold mb-3 hallmark-gold-emboss">{f.name}</h3>
+                <span className="text-xs font-medium text-[#C5A880] block mb-6 tracking-widest uppercase">({f.title})</span>
+                <p className="text-sm text-[#57534E] leading-loose">{f.desc}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* Section 3: 四大系列 - Grid 4 columns */}
-        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-8 md:p-12">
-          <h2 className="text-3xl font-serif mb-12 text-center">馆藏陈列 · Collections</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-10 md:p-16">
+          <h2 className="text-3xl font-serif mb-16 text-center tracking-wide uppercase text-[#1C2E20]">馆藏陈列 · Collections</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {COLLECTIONS.map((item, i) => (
-              <div key={i} className="bg-white p-6 border border-[#E0D7C5] space-y-4">
-                <div className="text-4xl mb-2">{item.icon}</div>
-                <h3 className="font-serif text-xl">{item.name}</h3>
-                <p className="text-xs uppercase tracking-wider text-[#C5A880]">{item.eng}</p>
+              <div key={i} className="bg-white p-8 border border-[#E0D7C5]/50 hover:shadow-lg transition-all duration-500 space-y-4">
+                <div className="text-4xl mb-4 opacity-80">{item.icon}</div>
+                <h3 className="font-serif text-xl text-[#1C2E20]">{item.name}</h3>
+                <p className="text-xs uppercase tracking-widest text-[#C5A880] font-medium">{item.eng}</p>
                 <p className="text-sm text-[#57534E] leading-relaxed">{item.desc}</p>
               </div>
             ))}
@@ -73,27 +73,28 @@ export const BrandHomeView: React.FC = () => {
         </section>
 
         {/* Section 4: 寻香地图 - Grid 3 columns */}
-        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-8 md:p-12">
-          <h2 className="text-3xl font-serif mb-12 text-center">寻香地图 · Locations</h2>
-          <div className="grid md:grid-cols-3 gap-8">
+        <section className="md:col-span-12 bg-hallmark-paper hallmark-foil-frame p-10 md:p-16">
+          <h2 className="text-3xl font-serif mb-16 text-center tracking-wide uppercase text-[#1C2E20]">寻香地图 · Locations</h2>
+          <div className="grid md:grid-cols-3 gap-12">
             {[
               { city: "成都", area: "武侯/成华", tone: "暖金 Warm" },
               { city: "宁波", area: "鄞州/奉化", tone: "海蓝 Sea" },
               { city: "泰国", area: "芭提亚", tone: "热带 Tropics" }
             ].map((w, i) => (
-              <div key={i} className="text-center space-y-4">
-                <h3 className="font-serif text-3xl">{w.city}</h3>
-                <p className="text-sm text-[#9E9689]">{w.area}</p>
-                <div className="w-24 h-24 mx-auto border-2 border-[#D4AF37] flex items-center justify-center text-[10px] text-[#C5A880]">QR CODE</div>
+              <div key={i} className="text-center space-y-5">
+                <h3 className="font-serif text-4xl text-[#1C2E20]">{w.city}</h3>
+                <p className="text-xs uppercase tracking-widest text-[#9E9689]">{w.area}</p>
+                <div className="w-24 h-24 mx-auto border border-[#D4AF37]/40 flex items-center justify-center text-[10px] text-[#C5A880] bg-white/50">QR CODE</div>
                 <p className="text-xs uppercase text-[#C5A880] tracking-widest">{w.tone}</p>
               </div>
             ))}
           </div>
         </section>
 
-        <footer className="md:col-span-12 text-center py-6 text-[#9E9689] font-mono text-xs uppercase tracking-widest">
+        <footer className="md:col-span-12 text-center py-10 text-[#9E9689] font-mono text-xs uppercase tracking-widest border-t border-[#E0D7C5]/30">
           © 2026 UNIO AROMA. ALL RIGHTS RESERVED.
         </footer>
+
       </article>
     </div>
   );

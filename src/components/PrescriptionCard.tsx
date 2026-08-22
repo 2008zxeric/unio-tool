@@ -54,7 +54,7 @@ export const PrescriptionCard: React.FC<PrescriptionCardProps> = ({
 
   // Blending Simulator State
   const [blendedDrops, setBlendedDrops] = useState<Record<string, number>>({});
-  const totalTargetDrops = prescription.olfactoryPyramid.totalDrops || 20;
+  const totalTargetDrops = prescription?.olfactoryPyramid?.totalDrops || 20;
 
   const currentTotalBlended = Object.values(blendedDrops).reduce<number>((a, b) => a + Number(b), 0);
   const isBlendingComplete = currentTotalBlended >= totalTargetDrops;
